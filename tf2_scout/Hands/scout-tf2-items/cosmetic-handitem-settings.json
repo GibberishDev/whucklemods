@@ -1,0 +1,1303 @@
+{
+    "id": "tf2_scout_items",
+    "cosmeticName": "Scout TF2 (Items)",
+    "author": "GibbDev",
+    "description": "This pack includes TF2 themed item retextures",
+    "credits": "Valve corp - Team Fortress 2 2007-Present",
+    "unlock": "",
+    "allowedSpecialtyPoses": [
+        "sprint",
+        "crouch"
+    ],
+    "swapSprites": [
+    {
+      "spriteName": "HND_B2D1",
+      "replacementSpriteNames": [
+        "HND_B2D1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2D3",
+      "replacementSpriteNames": [
+        "HND_B2D3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2D2",
+      "replacementSpriteNames": [
+        "HND_B2D2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2C4",
+      "replacementSpriteNames": [
+        "HND_B2C4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2D4",
+      "replacementSpriteNames": [
+        "HND_B2D4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2C1",
+      "replacementSpriteNames": [
+        "HND_B2C1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2C2",
+      "replacementSpriteNames": [
+        "HND_B2C2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2B4",
+      "replacementSpriteNames": [
+        "HND_B2B4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2C3",
+      "replacementSpriteNames": [
+        "HND_B2C3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2B3",
+      "replacementSpriteNames": [
+        "HND_B2B3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2B2",
+      "replacementSpriteNames": [
+        "HND_B2B2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2B1",
+      "replacementSpriteNames": [
+        "HND_B2B1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2A2",
+      "replacementSpriteNames": [
+        "HND_B2A2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2A3",
+      "replacementSpriteNames": [
+        "HND_B2A3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2A1",
+      "replacementSpriteNames": [
+        "HND_B2A1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B2A4",
+      "replacementSpriteNames": [
+        "HND_B2A4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1C1",
+      "replacementSpriteNames": [
+        "HND_F1C1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1C3",
+      "replacementSpriteNames": [
+        "HND_F1C3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1C2",
+      "replacementSpriteNames": [
+        "HND_F1C2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1D4",
+      "replacementSpriteNames": [
+        "HND_F1D4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1C4",
+      "replacementSpriteNames": [
+        "HND_F1C4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1D1",
+      "replacementSpriteNames": [
+        "HND_F1D1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1D2",
+      "replacementSpriteNames": [
+        "HND_F1D2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1D3",
+      "replacementSpriteNames": [
+        "HND_F1D3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1A3",
+      "replacementSpriteNames": [
+        "HND_F1A3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1A2",
+      "replacementSpriteNames": [
+        "HND_F1A2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1A1",
+      "replacementSpriteNames": [
+        "HND_F1A1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1B4",
+      "replacementSpriteNames": [
+        "HND_F1B4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1A4",
+      "replacementSpriteNames": [
+        "HND_F1A4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1B2",
+      "replacementSpriteNames": [
+        "HND_F1B2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1B3",
+      "replacementSpriteNames": [
+        "HND_F1B3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F1B1",
+      "replacementSpriteNames": [
+        "HND_F1B1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "MF2",
+      "replacementSpriteNames": [
+        "MF2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "MF3",
+      "replacementSpriteNames": [
+        "MF3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "MF1",
+      "replacementSpriteNames": [
+        "MF1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2A4",
+      "replacementSpriteNames": [
+        "HND_F2A4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2D4",
+      "replacementSpriteNames": [
+        "HND_F2D4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2D3",
+      "replacementSpriteNames": [
+        "HND_F2D3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2D2",
+      "replacementSpriteNames": [
+        "HND_F2D2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2D1",
+      "replacementSpriteNames": [
+        "HND_F2D1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2C4",
+      "replacementSpriteNames": [
+        "HND_F2C4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2C2",
+      "replacementSpriteNames": [
+        "HND_F2C2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2C3",
+      "replacementSpriteNames": [
+        "HND_F2C3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2C1",
+      "replacementSpriteNames": [
+        "HND_F2C1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2B1",
+      "replacementSpriteNames": [
+        "HND_F2B1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2B3",
+      "replacementSpriteNames": [
+        "HND_F2B3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2B2",
+      "replacementSpriteNames": [
+        "HND_F2B2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2B4",
+      "replacementSpriteNames": [
+        "HND_F2B4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2A1",
+      "replacementSpriteNames": [
+        "HND_F2A1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2A2",
+      "replacementSpriteNames": [
+        "HND_F2A2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F2A3",
+      "replacementSpriteNames": [
+        "HND_F2A3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1A1",
+      "replacementSpriteNames": [
+        "HND_B1A1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1A3",
+      "replacementSpriteNames": [
+        "HND_B1A3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1A2",
+      "replacementSpriteNames": [
+        "HND_B1A2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1A4",
+      "replacementSpriteNames": [
+        "HND_B1A4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1B1",
+      "replacementSpriteNames": [
+        "HND_B1B1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1B2",
+      "replacementSpriteNames": [
+        "HND_B1B2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1D2",
+      "replacementSpriteNames": [
+        "HND_B1D2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1B3",
+      "replacementSpriteNames": [
+        "HND_B1B3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1C3",
+      "replacementSpriteNames": [
+        "HND_B1C3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1D3",
+      "replacementSpriteNames": [
+        "HND_B1D3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1B4",
+      "replacementSpriteNames": [
+        "HND_B1B4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1C2",
+      "replacementSpriteNames": [
+        "HND_B1C2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1C1",
+      "replacementSpriteNames": [
+        "HND_B1C1"
+      ],
+      "framerate": 1.0,
+      "hand": -1,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1D1",
+      "replacementSpriteNames": [
+        "HND_B1D1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1D4",
+      "replacementSpriteNames": [
+        "HND_B1D4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B1C4",
+      "replacementSpriteNames": [
+        "HND_B1C4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "PHA1",
+      "replacementSpriteNames": [
+        "PHA1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "PHA2",
+      "replacementSpriteNames": [
+        "PHA2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "PHA3",
+      "replacementSpriteNames": [
+        "PHA3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3A4",
+      "replacementSpriteNames": [
+        "HND_B3A4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3A3",
+      "replacementSpriteNames": [
+        "HND_B3A3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3A2",
+      "replacementSpriteNames": [
+        "HND_B3A2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3A1",
+      "replacementSpriteNames": [
+        "HND_B3A1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3D1",
+      "replacementSpriteNames": [
+        "HND_B3D1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3D2",
+      "replacementSpriteNames": [
+        "HND_B3D2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3B2",
+      "replacementSpriteNames": [
+        "HND_B3B2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3D3",
+      "replacementSpriteNames": [
+        "HND_B3D3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3B3",
+      "replacementSpriteNames": [
+        "HND_B3B3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3D4",
+      "replacementSpriteNames": [
+        "HND_B3D4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3B1",
+      "replacementSpriteNames": [
+        "HND_B3B1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3C4",
+      "replacementSpriteNames": [
+        "HND_B3C4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3B4",
+      "replacementSpriteNames": [
+        "HND_B3B4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3C1",
+      "replacementSpriteNames": [
+        "HND_B3C1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3C3",
+      "replacementSpriteNames": [
+        "HND_B3C3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_B3C2",
+      "replacementSpriteNames": [
+        "HND_B3C2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3C4",
+      "replacementSpriteNames": [
+        "HND_F3C4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3C3",
+      "replacementSpriteNames": [
+        "HND_F3C3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3C2",
+      "replacementSpriteNames": [
+        "HND_F3C2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3C1",
+      "replacementSpriteNames": [
+        "HND_F3C1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3A4",
+      "replacementSpriteNames": [
+        "HND_F3A4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3A1",
+      "replacementSpriteNames": [
+        "HND_F3A1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3A3",
+      "replacementSpriteNames": [
+        "HND_F3A3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3A2",
+      "replacementSpriteNames": [
+        "HND_F3A2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3B4",
+      "replacementSpriteNames": [
+        "HND_F3B4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3B1",
+      "replacementSpriteNames": [
+        "HND_F3B1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3B2",
+      "replacementSpriteNames": [
+        "HND_F3B2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3B3",
+      "replacementSpriteNames": [
+        "HND_F3B3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3D4",
+      "replacementSpriteNames": [
+        "HND_F3D4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3D2",
+      "replacementSpriteNames": [
+        "HND_F3D2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3D3",
+      "replacementSpriteNames": [
+        "HND_F3D3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName": "HND_F3D1",
+      "replacementSpriteNames": [
+        "HND_F3D1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Arms_Handed_Sheet",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Arms_Handed_Sheet_0",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Arms_Handed_Sheet_1",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Arms_Handed_Sheet_2",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Arms_Handed_Sheet_3",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Arms_Handed_Sheet_4",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Arms_Handed_Sheet_5",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Arms_Handed_Sheet_6",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Arms_Handed_Sheet_7",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Body_Sheet_0",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Body_Sheet_1",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Body_Sheet_2",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Body_Sheet_3",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Body_Sheet_4",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Body_Sheet_5",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Body_Sheet_6",
+      "replacementSpriteNames": [
+        "pyro_grub_head_0",
+        "pyro_grub_head_1",
+        "pyro_grub_head_2"
+      ],
+      "framerate": 48.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Body_Sheet_7",
+      "replacementSpriteNames": [
+        "pyro_grub_head_squish"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Body_Sheet_8",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Body_Sheet_9",
+      "replacementSpriteNames": [
+        "pyro_grub_red_body"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Body_Sheet_10",
+      "replacementSpriteNames": [
+        "pyro_grub_red_squish"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Body_Sheet_11",
+      "replacementSpriteNames": [
+        "Explosion_01_Medium_0",
+        "Explosion_01_Medium_1",
+        "Explosion_01_Medium_2",
+        "Explosion_01_Medium_3",
+        "Explosion_01_Medium_4",
+        "Explosion_01_Medium_5",
+        "Explosion_01_Medium_6",
+        "Explosion_01_Medium_7"
+      ],
+      "framerate": 20.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_0",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_1",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_2",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_3",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_4",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_5",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_6",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_7",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_8",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_9",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_10",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_11",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_12",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_13",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_14",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_15",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_16",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_17",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_18",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_HeadExpressions_Sheet_19",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Tails_Sheet_0",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Tails_Sheet_1",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Tails_Sheet_2",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Tails_Sheet_3",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Tails_Sheet_4",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Tails_Sheet_5",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Tail_Slug_Sheet_0",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Tail_Slug_Sheet_1",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Tail_Slug_Sheet_2",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Tail_Slug_Sheet_3",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Tail_Slug_Sheet_4",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Slub_Tail_Slug_Sheet_5",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    }
+  ],
+  "globalMaterialBase": "Item_Hand_Cosmetic_Basic",
+  "forceGlobalMaterialOntoHands": false,
+  "useCustomStaminaColor": false,
+  "customStaminaColor": {
+      "r": 0.8,
+      "g": 0.2,
+      "b": 0.0,
+      "a": 0.6
+  },
+  "interactSwaps": [
+    {
+      "spriteName": "interact-hand-grabbed",
+      "replacementSpriteName": "interact-hand-grabbed",
+      "replacementSprite": {
+        "instanceID": 0
+      }
+    },
+    {
+      "spriteName": "interact-hand-item",
+      "replacementSpriteName": "interact-hand-item",
+      "replacementSprite": {
+        "instanceID": 0
+      }
+    },
+    {
+      "spriteName": "interact-hand-open",
+      "replacementSpriteName": "interact-hand-open",
+      "replacementSprite": {
+        "instanceID": 0
+      }
+    },
+    {
+      "spriteName": "interact-hand-point",
+      "replacementSpriteName": "interact-hand-point",
+      "replacementSprite": {
+        "instanceID": 0
+      }
+    }
+  ]
+}

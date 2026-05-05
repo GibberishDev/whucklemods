@@ -1,0 +1,210 @@
+{
+    "id": "tf2-scout-items",
+    "cosmeticName": "Scout TF2 (Items)",
+    "author": "GibbDev, Valve corp",
+    "description": "",
+    "unlock": "",
+    "setOverrides": [
+        {
+            "groupName": "player",
+            "setName": "hurt",
+            "clips": [
+                "Scout_shove1",
+                "Scout_shove2",
+                "Scout_shove3",
+                "Scout_shove4",
+                "Scout_shove5",
+                "Scout_shove6",
+                "Scout_shove7",
+                "Scout_shove8",
+                "Scout_shove9",
+                "Scout_shove10"
+            ]
+        },
+        {
+            "groupName": "player",
+            "setName": "hurt-falling",
+            "clips": [
+                "Scout_painsharp01",
+                "Scout_painsharp02",
+                "Scout_painsharp03",
+                "Scout_painsharp04",
+                "Scout_painsharp05"
+            ]
+        },
+        {
+            "groupName": "player",
+            "setName": "death",
+            "clips": [
+                "Scout_painsevere04",
+                "Scout_painsevere05"
+            ]
+        },
+        {
+            "groupName": "player",
+            "setName": "cough",
+            "clips": [
+                "tf2_scout_cough"
+            ]
+        },
+        {
+            "groupName": "movement",
+            "setName": "jump",
+            "clips": [
+                "tf2_air_swoosh_01",
+                "tf2_air_swoosh_02"
+            ]
+        },
+        {
+            "groupName": "movement",
+            "setName": "land-medium",
+            "clips": [
+                "Scout_painsharp06",
+                "Scout_painsharp08"
+            ]
+        },
+        {
+            "groupName": "movement",
+            "setName": "land-heavy",
+            "clips": [
+                "composite_tf2_scout_fall_heavy_01",
+                "composite_tf2_scout_fall_heavy_02",
+                "composite_tf2_scout_fall_heavy_03",
+                "composite_tf2_scout_fall_heavy_04",
+                "composite_tf2_scout_fall_heavy_05",
+                "composite_tf2_scout_fall_heavy_06",
+                "composite_tf2_scout_fall_heavy_07",
+                "composite_tf2_scout_fall_heavy_08",
+                "composite_tf2_scout_fall_heavy_09",
+                "composite_tf2_scout_fall_heavy_10"
+            ]
+        },
+        {
+            "groupName": "perk",
+            "setName": "loss",
+            "clips": [
+                "Scout_invinciblenotready06",
+                "Scout_invinciblenotready07"
+            ]
+        },
+        {
+            "groupName": "perk",
+            "setName": "doublejump",
+            "clips": [
+                "tf2_air_swoosh_01",
+                "tf2_air_swoosh_02"
+            ]
+        },
+        {
+            "groupName": "perk",
+            "setName": "unstable-inject",
+            "clips": [
+                "Scout_mvm_loot_rare08"
+            ]
+        },
+        {
+            "groupName": "perk",
+            "setName": "inject",
+            "clips": [
+                "tf2_scout_laugh_01",
+                "tf2_scout_laugh_02",
+                "tf2_scout_laugh_03"
+            ]
+        },
+        {
+            "groupName": "turret",
+            "setName": "randombark",
+            "clips": [
+                "tf2_sentry_scan_01",
+                "tf2_sentry_scan_02",
+                "tf2_sentry_scan_03"
+            ]
+        },
+        {
+            "groupName": "turret",
+            "setName": "targetfound",
+            "clips": [
+                "tf2_sentry_alert_02"
+            ]
+        },
+        {
+            "groupName": "turret",
+            "setName": "targetlost",
+            "clips": [
+                "tf2_sentry_alert_01"
+            ]
+        },
+        {
+            "groupName": "turret",
+            "setName": "shoot",
+            "clips": [
+                "tf2_sentry_shoot"
+            ]
+        },
+        {
+            "groupName": "turret",
+            "setName": "deactivate",
+            "clips": [
+                "tf2_sentry_disable"
+            ]
+        },
+        {
+            "groupName": "hammer",
+            "setName": "swing",
+            "clips": [
+                "tf2_air_swoosh_01",
+                "tf2_air_swoosh_02"
+            ]
+        },
+        {
+            "groupName": "hit",
+            "setName": "hit-creature",
+            "comment":"Disabled due to game natively having pitch variation and it having HORRIBLE effects on voicelines xd",
+            "clips": [
+                "tf2_bat_hit_01",
+                "tf2_bat_hit_02",
+                "tf2_bat_hit_03",
+                "tf2_bat_hit_04",
+                "tf2_bat_hit_05"
+            ]
+        },
+        {
+            "groupName": "hit",
+            "setName": "lasthit-creature",
+            "comment":"Disabled due to game natively having pitch variation and it having HORRIBLE effects on voicelines xd",
+            "clips": [
+                "crit_hit_mini",
+                "crit_hit_mini2",
+                "crit_hit_mini3",
+                "crit_hit_mini4",
+                "crit_hit_mini5",
+                "crit_hit",
+                "crit_hit2",
+                "crit_hit3",
+                "crit_hit4",
+                "crit_hit5",
+                "composite_tf2_last_hit_01",
+                "composite_tf2_last_hit_02",
+                "composite_tf2_last_hit_03"
+            ]
+        },
+        {
+            "groupName": "sluggrub",
+            "setName": "bark",
+            "clips": [
+                "pyro_grub_bark_00",
+                "pyro_grub_bark_01",
+                "pyro_grub_bark_02",
+                "pyro_grub_bark_03",
+                "pyro_grub_bark_04"
+            ]
+        },
+        {
+            "groupName": "sluggrub",
+            "setName": "use",
+            "clips": [
+                "pyro_grub_squish"
+            ]
+        }  
+    ]
+}
