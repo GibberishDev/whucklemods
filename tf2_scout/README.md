@@ -22,10 +22,10 @@
 |  | <p align='left'>Scout TF2 (Loud jumps)</p> | <p align='center'>Voice</p> | 0.55+ | <p align='center'>~<br>Optional</p> | Scout voice replacements for most actions. Jumps include occasional voicelines (Hes not obnoxious enough)<br>Additional features that require mods:<ul>Sentry audio replacement so it sounds like TF2 lvl2</ul><ul>Hammer denizen hit sounds that sound like stock bat</ul><ul>Hammer creature kill sounds with occasional scout gloating _bonk!_ |
 
 # Showcase
-<img width='45%' src='./git-previews/regular.jpg'></img>
-<img width='45%' src='./git-previews/cosmetics.jpg'></img>
-<img width='45%' src='./git-previews/redvsblu.jpg'></img>
-<img width='45%' src='./git-previews/pyrogrub.jpg'></img>
+<img width='49%' src='./git-previews/regular.jpg'></img>
+<img width='49%' src='./git-previews/cosmetics.jpg'></img>
+<img width='49%' src='./git-previews/redvsblu.jpg'></img>
+<img width='49%' src='./git-previews/pyrogrub.jpg'></img>
 # Installation
 
 > [!WARNING]
