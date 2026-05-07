@@ -31,7 +31,7 @@
 > [!WARNING]
 > As of writing Resourceful Hands mod is still in development and some required features are missing.
 > In addition vanilla cosmetic system is limiting and doesnt support everything these packs have to offer.
-> There _is_ a way to install everything RIGHT NOW but it requires a lot of jank and will not be supported in future. wait for Resourceful Hands mod uppdate or use limited capabilities of vanilla version
+> There _is_ a way to install everything RIGHT NOW but it requires a lot of jank and will not be supported in future. wait for Resourceful Hands mod update or use limited capabilities of vanilla version
 
 ## Modded
 Search Scout TF2 in Thunderstore/R2Modman mod browser and install.<br><br>
