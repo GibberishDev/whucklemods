@@ -12,9 +12,47 @@
 
 | | Pack | type | Game Version | Mods | Notes |
 | --- | --- | --- | --- | --- | --- |
-| <img src='./Hands/scout-tf2/Sprites/HND_B1A1.png'> | <p align='left'>Scout TF2</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | Standart pack with just hand retextures |
-| <img src='./Hands/scout-tf2-blu/Sprites/HND_B1A1.png'> | <p align='left'>Scout TF2 BLU</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | Version of standart pack with BLU styles hand wraps |
-| <img src='./Hands/scout-tf2-red/Sprites/HND_B1A1.png'> | <p align='left'>Scout TF2 RED</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | Version of standart pack with RED styles hand wraps |
-| <img src='./Hands/scout-tf2-items/card-foreground-git.png'> | <p align='left'>Scout TF2 (Item retextures)</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | Standart pack with additional items that can be held retextured. Currently implements: Grub as Pyro |
+| <img src='./Hands/scout-tf2-hands/Sprites/HND_B1A1.png'> | <p align='left'>Scout TF2</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | Standard pack with just hand retextures |
+| <img src='./Hands/scout-tf2-blu-hands/Sprites/HND_B1A1.png'> | <p align='left'>Scout TF2 BLU</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | Version of Standard pack with BLU styles hand wraps |
+| <img src='./Hands/scout-tf2-red-hands/Sprites/HND_B1A1.png'> | <p align='left'>Scout TF2 RED</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | Version of Standard pack with RED styles hand wraps |
+| <img src='./git-previews/items.png'> | <p align='left'>Scout TF2 (Item retextures)</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | Standard pack with additional items that can be held retextured |
+| <img src='./git-previews/items-blu.png'> | <p align='left'>Scout TF2 RED (Item retextures)</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | BLU team pack with additional items that can be held retextured|
+| <img src='./git-previews/items-red.png'> | <p align='left'>Scout TF2 RED (Item retextures)</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | RED team pack with additional items that can be held retextured |
 |  | <p align='left'>Scout TF2</p> | <p align='center'>Voice</p> | 0.55+ | <p align='center'>~<br>Optional</p> | Scout voice replacements for most actions. Jumps do __not__ include occasional voicelines (Hes obnoxious enough)<br>Additional features that require mods:<ul>Sentry audio replacement so it sounds like TF2 lvl2</ul><ul>Hammer denizen hit sounds that sound like stock bat</ul><ul>Hammer creature kill sounds with occasional scout gloating _bonk!_ |
 |  | <p align='left'>Scout TF2 (Loud jumps)</p> | <p align='center'>Voice</p> | 0.55+ | <p align='center'>~<br>Optional</p> | Scout voice replacements for most actions. Jumps include occasional voicelines (Hes not obnoxious enough)<br>Additional features that require mods:<ul>Sentry audio replacement so it sounds like TF2 lvl2</ul><ul>Hammer denizen hit sounds that sound like stock bat</ul><ul>Hammer creature kill sounds with occasional scout gloating _bonk!_ |
+
+# Showcase
+<img width='45%' src='./git-previews/regular.jpg'></img>
+<img width='45%' src='./git-previews/cosmetics.jpg'></img>
+<img width='45%' src='./git-previews/redvsblu.jpg'></img>
+<img width='45%' src='./git-previews/pyrogrub.jpg'></img>
+# Installation
+
+> [!WARNING]
+> As of writing Resourceful Hands mod is still in development and some required features are missing.
+> In addition vanilla cosmetic system is limiting and doesnt support everything these packs have to offer.
+> There _is_ a way to install everything RIGHT NOW but it requires a lot of jank and will not be supported in future. wait for Resourceful Hands mod uppdate or use limited capabilities of vanilla version
+
+## Modded
+Search Scout TF2 in Thunderstore/R2Modman mod browser and install.<br><br>
+If you prefer manual installation required mods are:<br>
+1. __BepInExPack__ by BepInEx - v5.4.2305 or above<br>
+Launch the game once to generate all the BepInEx folders
+2. __Resourceful Hands__ by MonkSilly - v0.11.0 or above<br>
+Put RH into `BepInEx/plugins` folder.
+3. __Scout TF2__
+Put contents of zip into `BepInEx/plugins` folder.
+> [!IMPORTANT]
+> Current version of RH doesnt support loading voice cosmetics. this is a confirmed bug and will be fixed soon.
+
+If everything done correctly when in-game you will see several packs inside cosmetics menu
+
+## Vanilla
+To install manually:
+1. Download latest version from [Releases](https://github.com/GibberishDev/whucklemods/releases)
+2. Unzip the scout-tf2 archive
+3. Put packs with `-hands` into `[Steam game install]/White Knuckle_Data/Mods/Cosmetics/Hands` folder
+4. Put packs with `-voices` into `[Steam game install]/White Knuckle_Data/Mods/Cosmetics/Voices` folder
+5. Launch the game
+> [!IMPORTANT]
+> Vanilla cosmetic system for voices doesnt support custom sounds outside very limited range of player sounds.
