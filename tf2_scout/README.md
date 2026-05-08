@@ -59,10 +59,7 @@ To install manually:
 > Vanilla cosmetic system for voices doesnt support custom sounds outside very limited range of player sounds.
 
 # ToDo
-<center>Item Retextures</center><br>
-<center> 11 / 23 [████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 47% Done</center><br><br>
-
-
+<p align='center'>11 / 23 [████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 47% Done</p>
 
 | <center>Done?</center> | <center>White Knuckle Item</center> | <center>Retexture</center> |
 | --- | --- | --- |
