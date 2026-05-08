@@ -59,28 +59,34 @@ To install manually:
 > Vanilla cosmetic system for voices doesnt support custom sounds outside very limited range of player sounds.
 
 # ToDo
-item retextures
-6 / 21 [███░░░░░░░]
-- [x] grub -> pyro
-- [x] injector -> bonk styled injector
-- [x] beans -> bonk and crit-a-cola cans
-- [x] explosive rebar -> soldiers rocket
-- [x] food bar -> dolokohs bar
-- [x] milk -> 'not' milk
-- [ ] rebars -> hunstman arrows
-- [ ] brick -> Flying Guillotine (I think brick is the only item using *2D4 sprite)
-- [ ] flaregun -> Flaregun (stolen from pyron i guess)
-- [ ] flares -> pyro's flaregun ammo
-- [ ] bandage -> small medkit
-- [ ] cocoa -> demo's booze
-- [ ] candy cauldron -> tf2 large medkid (halloween)
-- [ ] pipewrench (parasite) -> Engie wrench
-- [ ] scanner -> wrangler with rescue ranger screen
-- [ ] photo trinket -> miss Pauling photo
-- [ ] Employee Id trinket -> Black Mesa Anomalous Materials researcher badge
-- [ ] floppy disks -> tf2 recolors and tf2 logo
-- [ ] timepiece artifact -> deadringer
-- [ ] remote artifact -> destruction pda
-- [ ] astro glove artifact -> Hot hand
+<center>Item Retextures</center>
+<center> 11 / 23 [████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 47% Done</center><br><br>
 
+
+
+| <center>Done?</center> | <center>White Knuckle Item</center> | <center>Retexture</center> |
+| --- | --- | --- |
+| ✓ | Slub | Tiny pyro (team colored)|
+| ✓ | Injector | Bonk™ styled injector (team colored)|
+| ✓ | Veans | Bonk™ and Crit-a-Cola cans (team colored)|
+| ✓ | Explosive rebar | soldiers rocket|
+| ✓ | Foodbar | Dalokohs bar|
+| ✓ | Milk | Mad milk|
+| ✓ | Flares | Pyro's flaregun ammo|
+| ✓ | Bandage | Small medkit|
+| ✓ | Candy cauldron | Large medkit (halloween)|
+| ✓ | Photo trinket | Miss Pauling photo|
+| ✓ | Employee Id trinket | Black Mesa Anomalous Materials researcher badge (Gordon lost it 5 weeks before the casqade)|
+| ✘ | Rebars | Hunstman arrows|
+| ✘ | Blinkeye | Monoculus|
+| ✘ | Flaregun | Flaregun (stolen from pyro I guess)|
+| ✘ | Cocoa | Demo's botl|
+| ✘ | Pipewrench (parasite) | Engie wrench|
+| ✘ | Timepiece artifact | Deadringer|
+| ✘ | Remote artifact | Destruction pda|
+| ✘ | Astro glove artifact | Hot hand|
+| ? | Floppy disks | TF2 recolors and TF2 logo|
+| ? | Brick | Flying Guillotine (I think brick is the only item using *2D4 sprite)|
+| ? | Scanner | Wrangler with rescue ranger screen|
+| ? | Translocator artifact | Tiny~~desk™~~ engineer teleporter|
 
