@@ -1,5 +1,5 @@
 {
-    "id": "tf2_scout_items",
+    "id": "tf2-scout-items-hands",
     "cosmeticName": "Scout TF2 (Items)",
     "author": "GibbDev",
     "description": "This pack includes TF2 themed item retextures",
@@ -1387,7 +1387,72 @@
       ],
       "framerate": 1.0,
       "materialBase": ""
+    },
+    {
+      "spriteName":"MAT_CandyCauldron_0",
+      "replacementSpriteNames": [
+        "cauldron_0"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"MAT_CandyCauldron_1",
+      "replacementSpriteNames": [
+        "cauldron_1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"MAT_CandyCauldron_2",
+      "replacementSpriteNames": [
+        "cauldron_2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"MAT_CandyCauldron_3",
+      "replacementSpriteNames": [
+        "cauldron_3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_hands_bandage",
+      "replacementSpriteNames": [
+        "medkit"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Trinket_PhotoOfHome_HandItem",
+      "replacementSpriteNames": [
+        "Trinket_PhotoOfHome_HandItem"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Trinket_EmployeeID_HandItem",
+      "replacementSpriteNames": [
+        "Trinket_EmployeeID_HandItem"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"FlaregunAmoSpin_2",
+      "replacementSpriteNames": [
+        "FlaregunAmoSpin_2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
     }
+    
   ],
   "globalMaterialBase": "Item_Hand_Cosmetic_Basic",
   "forceGlobalMaterialOntoHands": false,
