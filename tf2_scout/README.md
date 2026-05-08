@@ -4,6 +4,7 @@
 <ul><a href='https://github.com/GibberishDev/whucklemods/tree/main/tf2_scout#description'>Description</a></ul>
 <ul><a href='https://github.com/GibberishDev/whucklemods/tree/main/tf2_scout#showcase'>Showcase</a></ul>
 <ul><a href='https://github.com/GibberishDev/whucklemods/tree/main/tf2_scout#installation'>Installation</a></ul>
+<ul><a href='https://github.com/GibberishDev/whucklemods/tree/main/tf2_scout#ToDo'>ToDo</a></ul>
 
 # Description
 <p>Team Fortress 2 Scout is iconic character. I love TF2. Some say a bit much...</p>
@@ -56,3 +57,31 @@ To install manually:
 5. Launch the game
 > [!IMPORTANT]
 > Vanilla cosmetic system for voices doesnt support custom sounds outside very limited range of player sounds.
+
+# ToDo
+item retextures
+4 / 22 [██░░░░░░░░]
+- [x] grub -> pyro
+- [x] injector -> bonk styled injector
+- [x] beans -> bonk and crit-a-cola cans
+- [x] explosive rebar -> soldiers rocket
+- [ ] food bar -> dolokohs bar
+- [ ] milk -> 'not' milk
+- [ ] rebars -> hunstman arrows
+- [ ] brick -> Flying Guillotine (I think brick is the only item using *2D4 sprite)
+- [ ] flaregun -> Flaregun (stolen from pyron i guess)
+- [ ] flares -> pyro's flaregun ammo
+- [ ] P-Beans -> bonk and crit-a-cola cans (crit boosted)
+- [ ] bandage -> small medkit
+- [ ] cocoa -> demo's booze
+- [ ] candy cauldron -> tf2 large medkid (halloween)
+- [ ] pipewrench (parasite) -> Engie wrench
+- [ ] scanner -> wrangler with rescue ranger screen
+- [ ] photo trinket -> miss Pauling photo
+- [ ] Employee Id trinket -> Black Mesa Anomalous Materials researcher badge
+- [ ] floppy disks -> tf2 recolors and tf2 logo
+- [ ] timepiece artifact -> deadringer
+- [ ] remote artifact -> destruction pda
+- [ ] astro glove artifact -> Hot hand
+
+

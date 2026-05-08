@@ -1259,6 +1259,78 @@
       ],
       "framerate": 1.0,
       "materialBase": ""
+    },
+    {
+      "spriteName":"Injector_Strip_0",
+      "replacementSpriteNames": [
+        "Item_Hands_Injector_0"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Injector_Strip_1",
+      "replacementSpriteNames": [
+        "Item_Hands_Injector_1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Injector_Strip_2",
+      "replacementSpriteNames": [
+        "Item_Hands_Injector_2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Bean_Sheet_0",
+      "replacementSpriteNames": [
+        "beans_0"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Bean_Sheet_1",
+      "replacementSpriteNames": [
+        "beans_1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Bean_Sheet_2",
+      "replacementSpriteNames": [
+        "beans_1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Bean_Sheet_3",
+      "replacementSpriteNames": [
+        "beans_2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_Rebar_Explosive",
+      "replacementSpriteNames": [
+        "rebar_explosive_0"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_Rebar_Explosive_Primed",
+      "replacementSpriteNames": [
+        "rebar_explosive_1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
     }
   ],
   "globalMaterialBase": "Item_Hand_Cosmetic_Basic",
