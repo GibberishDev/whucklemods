@@ -60,18 +60,17 @@ To install manually:
 
 # ToDo
 item retextures
-4 / 22 [██░░░░░░░░]
+6 / 21 [███░░░░░░░]
 - [x] grub -> pyro
 - [x] injector -> bonk styled injector
 - [x] beans -> bonk and crit-a-cola cans
 - [x] explosive rebar -> soldiers rocket
-- [ ] food bar -> dolokohs bar
-- [ ] milk -> 'not' milk
+- [x] food bar -> dolokohs bar
+- [x] milk -> 'not' milk
 - [ ] rebars -> hunstman arrows
 - [ ] brick -> Flying Guillotine (I think brick is the only item using *2D4 sprite)
 - [ ] flaregun -> Flaregun (stolen from pyron i guess)
 - [ ] flares -> pyro's flaregun ammo
-- [ ] P-Beans -> bonk and crit-a-cola cans (crit boosted)
 - [ ] bandage -> small medkit
 - [ ] cocoa -> demo's booze
 - [ ] candy cauldron -> tf2 large medkid (halloween)

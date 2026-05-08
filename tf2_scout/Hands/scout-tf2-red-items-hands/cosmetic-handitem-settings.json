@@ -1331,6 +1331,62 @@
       ],
       "framerate": 1.0,
       "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Foodbar_Strip_0",
+      "replacementSpriteNames": [
+        "food_bar_red_0"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Foodbar_Strip_1",
+      "replacementSpriteNames": [
+        "food_bar_red_1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"milk_carton_FG3",
+      "replacementSpriteNames": [
+        "milk_2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"milk_carton_FG2",
+      "replacementSpriteNames": [
+        "milk_1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"milk_carton_FG1",
+      "replacementSpriteNames": [
+        "milk_0"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"milk_carton_BG2",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"milk_carton_BG1",
+      "replacementSpriteNames": [
+        "empty"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
     }
   ],
   "globalMaterialBase": "Item_Hand_Cosmetic_Basic",
