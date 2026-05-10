@@ -1451,6 +1451,201 @@
       ],
       "framerate": 1.0,
       "materialBase": ""
+    },
+    {
+      "spriteName":"EyeSpriteFrames_0",
+      "replacementSpriteNames": [
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_0",
+        "eye_idle_1",
+        "eye_idle_2",
+        "eye_idle_1",
+        "eye_idle_3",
+        "eye_idle_3",
+        "eye_idle_3",
+        "eye_idle_3",
+        "eye_idle_4",
+        "eye_idle_4",
+        "eye_idle_4",
+        "eye_idle_4",
+        "eye_idle_4",
+        "eye_idle_4"
+      ],
+      "framerate": 8.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"EyeSpriteFrames_1",
+      "replacementSpriteNames": [
+        "eye_squish_1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"EyeSpriteFrames_2",
+      "replacementSpriteNames": [
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_stage_2_0",
+        "eye_idle_1",
+        "eye_idle_2",
+        "eye_idle_1"
+      ],
+      "framerate": 8.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"EyeSpriteFrames_3",
+      "replacementSpriteNames": [
+        "eye_squish_2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"EyeSpriteFrames_4",
+      "replacementSpriteNames": [
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_stage_3_0",
+        "eye_idle_2",
+        "eye_idle_2"
+      ],
+      "framerate": 8.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"EyeSpriteFrames_5",
+      "replacementSpriteNames": [
+        "eye_death_0"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"EyeSpriteFrames_6",
+      "replacementSpriteNames": [
+        "eye_death_1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Flaregun_idle_cocked",
+      "replacementSpriteNames": [
+        "flaregun_red_4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Flaregun_idle_uncocked",
+      "replacementSpriteNames": [
+        "flaregun_red_3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Flaregun_Cocked",
+      "replacementSpriteNames": [
+        "flaregun_red_1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Flaregun_uncocked",
+      "replacementSpriteNames": [
+        "flaregun_red_0"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Flaregun_recoil",
+      "replacementSpriteNames": [
+        "flaregun_red_2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
     }
     
   ],
