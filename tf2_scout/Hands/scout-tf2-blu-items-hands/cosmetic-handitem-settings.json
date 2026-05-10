@@ -1606,6 +1606,46 @@
       ],
       "framerate": 1.0,
       "materialBase": ""
+    },
+    {
+      "spriteName":"Flaregun_idle_cocked",
+      "replacementSpriteNames": [
+        "flaregun_blu_4"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Flaregun_idle_uncocked",
+      "replacementSpriteNames": [
+        "flaregun_blu_3"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Flaregun_Cocked",
+      "replacementSpriteNames": [
+        "flaregun_blu_1"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Flaregun_uncocked",
+      "replacementSpriteNames": [
+        "flaregun_blu_0"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Flaregun_recoil",
+      "replacementSpriteNames": [
+        "flaregun_blu_2"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
     }
   ],
   "globalMaterialBase": "Item_Hand_Cosmetic_Basic",
