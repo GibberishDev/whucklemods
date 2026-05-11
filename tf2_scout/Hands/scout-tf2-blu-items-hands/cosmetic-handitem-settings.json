@@ -1646,6 +1646,30 @@
       ],
       "framerate": 1.0,
       "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_Piton",
+      "replacementSpriteNames": [
+        "Item_Hands_Piton"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_Piton_Enthusiast",
+      "replacementSpriteNames": [
+        "Item_Hands_Piton_Enthusiast"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_Piton_Holiday",
+      "replacementSpriteNames": [
+        "Item_Hands_Piton_Holiday"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
     }
   ],
   "globalMaterialBase": "Item_Hand_Cosmetic_Basic",

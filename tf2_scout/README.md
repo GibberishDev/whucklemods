@@ -59,7 +59,7 @@ To install manually:
 > Vanilla cosmetic system for voices doesnt support custom sounds outside very limited range of player sounds.
 
 # ToDo
-<p align='center'>13 / 28 [█████████████▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒] 46% Done</p>
+<p align='center'>16 / 28 [████████████████▓▓▓▓▓▓▓▓▒▒▒▒] 57% Done</p>
 
 | <center>Done?</center> | <center>White Knuckle Item</center> | <center>Retexture</center> |
 | --- | --- | --- |
@@ -74,9 +74,9 @@ To install manually:
 | ✓ | Candy cauldron | Large medkit (halloween)|
 | ✓ | Photo trinket | Miss Pauling photo|
 | ✓ | Employee Id trinket | Black Mesa Anomalous Materials researcher badge (Gordon lost it 5 weeks before the casqade)|
-| ✘ | Piton | MannCo crate key |
-| ✘ | Piton (Piton Enthusiast) | MannCo EotL crate key |
-| ✘ | Piton (XMas) | MannCo "Nice Winter" crate key  |
+| ✓ | Piton | MannCo crate key |
+| ✓ | Piton (Piton Enthusiast) | MannCo EotL crate key |
+| ✓ | Piton (XMas) | MannCo "Nice Winter" crate key  |
 | ✘ | Rebar | Hunstman arrow|
 | ✘ | Rope Rebar | Hunstman arrow with rope coil|
 | ✘ | Festive Rebar | Scout TF2 candy cane |
