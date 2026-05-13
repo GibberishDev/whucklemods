@@ -67,21 +67,21 @@ To install manually:
 | ✓ | Injector | Bonk™ styled injector (team colored)|
 | ✓ | Veans | Bonk™ and Crit-a-Cola cans (team colored)|
 | ✓ | Explosive rebar | soldiers rocket|
-| ✓ | Foodbar | Dalokohs bar|
+| ✓ | Foodbar | Dalokohs bar (team colored)|
 | ✓ | Milk | Mad milk|
-| ✓ | Flares | Pyro's flaregun ammo|
+| ✓ | Flares | Pyro's flaregun ammo (team colored)|
 | ✓ | Bandage | Small medkit|
 | ✓ | Candy cauldron | Large medkit (halloween)|
 | ✓ | Photo trinket | Miss Pauling photo|
-| ✓ | Employee Id trinket | Black Mesa Anomalous Materials researcher badge (Gordon lost it 5 weeks before the casqade)|
+| ✓ | Employee Id trinket | Black Mesa Anomalous Materials researcher badge (Gordon lost it 5 weeks before the cascade)|
 | ✓ | Piton | MannCo crate key |
-| ✓ | Piton (Piton Enthusiast) | MannCo EotL crate key |
+| ✓ | Piton (Piton Enthusiast) | Heart shaped MannCo crate key |
 | ✓ | Piton (XMas) | MannCo "Nice Winter" crate key  |
+| ✓ | Blinkeye | Monoculus|
+| ✓ | Flaregun | Flaregun (stolen from pyro I guess) (team colored)|
 | ✘ | Rebar | Hunstman arrow|
 | ✘ | Rope Rebar | Hunstman arrow with rope coil|
 | ✘ | Festive Rebar | Scout TF2 candy cane |
-| ✓ | Blinkeye | Monoculus|
-| ✓ | Flaregun | Flaregun (stolen from pyro I guess)|
 | ✘ | Cocoa | Demo's botl|
 | ✘ | Pipewrench (parasite) | Engie wrench|
 | ✘ | Timepiece artifact | Deadringer|

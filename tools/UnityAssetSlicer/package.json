@@ -1,0 +1,20 @@
+{
+    "name":"unity_slicer",
+    "displayName":"Unity sprite slicer",
+    "description": "Allows importing textures with .meta files to automatically slice sprites into unity imported sprites from sheets",
+    "version": "1.1",
+    "author": {
+        "name": "GibbDev",
+        "email": "GibberishDevelopment@gmai.com",
+        "url": "https://github.com/gibberishdev"
+    },
+    "contributors": [],
+    "publisher": "GibbDev",
+    "license":"LGPL-3.0-or-later",
+    "categories": ["Scripts"],
+    "contributes": {
+      "scripts": [
+          { "path": "./main.lua" }
+      ]
+    }
+}
