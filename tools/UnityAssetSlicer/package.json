@@ -14,7 +14,8 @@
     "categories": ["Scripts"],
     "contributes": {
       "scripts": [
-          { "path": "./main.lua" }
+          { "path": "./main.lua" },
+          { "path": "./importer.lua" }
       ]
     }
 }

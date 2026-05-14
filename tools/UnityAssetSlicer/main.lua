@@ -1,26 +1,16 @@
 local plugin = nil
-function init(_plugin)
-	plugin = _plugin
-	if app.isUIAvailable then
-		print_ui("> White Knuckle Slicer tools v."..tostring(plugin.version).."\n")
-		print_ui(">   By GibbDev\n")
-		print_ui(">   Check 'File > WHuckle Slicer' for options\n")
-	end
 
-	if plugin.preferences.last_meta_file_path == nil then
-		plugin.preferences.last_meta_file_path = ""
-	end
-	if plugin.preferences.delete_slices == nil then
-		plugin.preferences.delete_slices = true
-	end
-	if plugin.preferences.last_export_path == nil then
-		plugin.preferences.last_export_path = ""
-	end
-	
+function init(_plugin)
+	-- if not app.isUIAvailable then
+	-- 	return
+	-- end
+	plugin = _plugin
+	print_ui("[UnitySlicer] - Starting plugin v"..tostring(plugin.version).."\n")
+	registerSettings()
 
 	plugin:newMenuGroup{
 		id="whuckle_slicer",
-		title="WHuckle Slicer",
+		title="Unity Slicer",
 		group="file_app"
 	}
 
@@ -344,4 +334,22 @@ function export_slices()
 			hand=true
 		}
 end
+-- #endregion
+
+-- #region init
+function registerSettings()
+	if plugin.preferences.last_meta_file_path == nil then
+		plugin.preferences.last_meta_file_path = ""
+		print_ui("[UnitySlicer] - registered preference: 'last_meta_file_path'")
+	end
+	if plugin.preferences.last_export_path == nil then
+		plugin.preferences.last_export_path = ""
+		print_ui("[UnitySlicer] - registered preference: 'last_export_path'")
+	end
+	if plugin.preferences.delete_slices == nil then
+		plugin.preferences.delete_slices = true
+		print_ui("[UnitySlicer] - registered preference: 'delete_slices'")
+	end
+end
+
 -- #endregion
