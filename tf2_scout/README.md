@@ -59,7 +59,7 @@ To install manually:
 > Vanilla cosmetic system for voices doesnt support custom sounds outside very limited range of player sounds.
 
 # ToDo
-<p align='center'>16 / 28 [████████████████▓▓▓▓▓▓▓▓▒▒▒▒] 57% Done</p>
+<p align='center'>18 / 28 [██████████████████▓▓▓▓▓▓▒▒▒▒] 64% Done</p>
 
 | <center>Done?</center> | <center>White Knuckle Item</center> | <center>Retexture</center> |
 | --- | --- | --- |
@@ -79,8 +79,8 @@ To install manually:
 | ✓ | Piton (XMas) | MannCo "Nice Winter" crate key  |
 | ✓ | Blinkeye | Monoculus|
 | ✓ | Flaregun | Flaregun (stolen from pyro I guess) (team colored)|
-| ✘ | Rebar | Hunstman arrow|
-| ✘ | Rope Rebar | Hunstman arrow with rope coil|
+| ✓ | Rebar | Hunstman arrow|
+| ✓ | Rope Rebar | Hunstman arrow with rope coil|
 | ✘ | Festive Rebar | Scout TF2 candy cane |
 | ✘ | Cocoa | Demo's botl|
 | ✘ | Pipewrench (parasite) | Engie wrench|

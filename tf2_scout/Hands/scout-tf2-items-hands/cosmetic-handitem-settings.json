@@ -1670,6 +1670,38 @@
       ],
       "framerate": 1.0,
       "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_Rebar",
+      "replacementSpriteNames": [
+        "Item_Hands_Rebar"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_Rebar_Primed",
+      "replacementSpriteNames": [
+        "Item_Hands_Rebar_Primed"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_RebarRope",
+      "replacementSpriteNames": [
+        "Item_Hands_RebarRope"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_RebarRope_Primed",
+      "replacementSpriteNames": [
+        "Item_Hands_RebarRope_Primed"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
     }
     
     
