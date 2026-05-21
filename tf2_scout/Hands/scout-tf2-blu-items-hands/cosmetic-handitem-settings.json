@@ -976,7 +976,7 @@
     {
       "spriteName":"Slub_Body_Sheet_9",
       "replacementSpriteNames": [
-        "pyro_grub_blu_body"
+        "pyro_grub_red_body"
       ],
       "framerate": 1.0,
       "materialBase": ""
@@ -984,7 +984,7 @@
     {
       "spriteName":"Slub_Body_Sheet_10",
       "replacementSpriteNames": [
-        "pyro_grub_blu_squish"
+        "pyro_grub_red_squish"
       ],
       "framerate": 1.0,
       "materialBase": ""
