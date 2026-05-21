@@ -1911,5 +1911,84 @@
         "instanceID": 0
       }
     }
+  ],
+  "emotes": [
+    {
+        "id": "glizzy",
+        "name": "Glizzy",
+        "spriteName": "glizzy_red_00",
+        "position": {
+            "x": 0.0,
+            "y": 0.3,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "fu",
+        "name": "Fuck you",
+        "spriteName": "fu_red",
+        "position": {
+            "x": 0.0,
+            "y": 0.3,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "lu",
+        "name": "Heart",
+        "spriteName": "heart_red",
+        "position": {
+            "x": 0.27,
+            "y": 0.3,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "point",
+        "name": "Point",
+        "spriteName": "point_red",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "thumbsup",
+        "name": "Thumbs Up",
+        "spriteName": "thumbsup_red",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "thumbsdown",
+        "name": "Thumbs Down",
+        "spriteName": "thumbsdown_red",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "yapping",
+        "name": "Yapping",
+        "spriteName": "yap_red_01",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    }
   ]
 }

@@ -1670,6 +1670,128 @@
       ],
       "framerate": 1.0,
       "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_Rebar",
+      "replacementSpriteNames": [
+        "Item_Hands_Rebar"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_Rebar_Primed",
+      "replacementSpriteNames": [
+        "Item_Hands_Rebar_Primed"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_RebarRope",
+      "replacementSpriteNames": [
+        "Item_Hands_RebarRope"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_RebarRope_Primed",
+      "replacementSpriteNames": [
+        "Item_Hands_RebarRope_Primed"
+      ],
+      "framerate": 1.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"glizzy_red_00",
+      "replacementSpriteNames": [
+        "glizzy_red_00",
+        "glizzy_red_01",
+        "glizzy_red_02",
+        "glizzy_red_03",
+        "glizzy_red_04",
+        "glizzy_red_05",
+        "glizzy_red_06",
+        "glizzy_red_07",
+        "glizzy_red_08",
+        "glizzy_red_09",
+        "glizzy_red_10",
+        "glizzy_red_11",
+        "glizzy_red_12",
+        "glizzy_red_13",
+        "glizzy_red_14",
+        "glizzy_red_15",
+        "glizzy_red_16",
+        "glizzy_red_17",
+        "glizzy_red_18",
+        "glizzy_red_19",
+        "glizzy_red_20",
+        "glizzy_red_21",
+        "glizzy_red_22",
+        "glizzy_red_23",
+        "glizzy_red_24",
+        "glizzy_red_25",
+        "glizzy_red_26",
+        "glizzy_red_27",
+        "glizzy_red_28",
+        "glizzy_red_29",
+        "glizzy_red_30",
+        "glizzy_red_31",
+        "glizzy_red_32",
+        "glizzy_red_33",
+        "glizzy_red_34",
+        "glizzy_red_35",
+        "glizzy_red_36",
+        "glizzy_red_37",
+        "glizzy_red_38",
+        "glizzy_red_39",
+        "glizzy_red_40",
+        "glizzy_red_41",
+        "glizzy_red_42",
+        "glizzy_red_43",
+        "glizzy_red_44",
+        "glizzy_red_45",
+        "glizzy_red_46",
+        "glizzy_red_47",
+        "glizzy_red_48",
+        "glizzy_red_49",
+        "glizzy_red_50",
+        "glizzy_red_51",
+        "glizzy_red_52",
+        "glizzy_red_53",
+        "glizzy_red_54",
+        "glizzy_red_55",
+        "glizzy_red_56",
+        "glizzy_red_57",
+        "glizzy_red_58",
+        "glizzy_red_59"
+      ],
+      "framerate": 24.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"yap_red_01",
+      "replacementSpriteNames": [
+        "yap_red_01",
+        "yap_red_02",
+        "yap_red_03",
+        "yap_red_04",
+        "yap_red_05",
+        "yap_red_06",
+        "yap_red_07",
+        "yap_red_08",
+        "yap_red_09",
+        "yap_red_10",
+        "yap_red_11",
+        "yap_red_12",
+        "yap_red_13",
+        "yap_red_14",
+        "yap_red_15",
+        "yap_red_16"
+      ],
+      "framerate": 12.0,
+      "materialBase": ""
     }
   ],
   "globalMaterialBase": "Item_Hand_Cosmetic_Basic",
@@ -1709,6 +1831,85 @@
       "replacementSprite": {
         "instanceID": 0
       }
+    }
+  ],
+  "emotes": [
+    {
+        "id": "glizzy",
+        "name": "Glizzy",
+        "spriteName": "glizzy_red_00",
+        "position": {
+            "x": 0.0,
+            "y": 0.3,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "fu",
+        "name": "Fuck you",
+        "spriteName": "fu_red",
+        "position": {
+            "x": 0.0,
+            "y": 0.3,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "lu",
+        "name": "Heart",
+        "spriteName": "heart_red",
+        "position": {
+            "x": 0.27,
+            "y": 0.3,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "point",
+        "name": "Point",
+        "spriteName": "point_red",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "thumbsup",
+        "name": "Thumbs Up",
+        "spriteName": "thumbsup_red",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "thumbsdown",
+        "name": "Thumbs Down",
+        "spriteName": "thumbsdown_red",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "yapping",
+        "name": "Yapping",
+        "spriteName": "yap_red_01",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
     }
   ]
 }

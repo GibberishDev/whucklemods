@@ -826,6 +826,96 @@
       ],
       "framerate": 1.0,
       "materialBase": ""
+    },
+    {
+      "spriteName":"glizzy_blu_00",
+      "replacementSpriteNames": [
+        "glizzy_blu_00",
+        "glizzy_blu_01",
+        "glizzy_blu_02",
+        "glizzy_blu_03",
+        "glizzy_blu_04",
+        "glizzy_blu_05",
+        "glizzy_blu_06",
+        "glizzy_blu_07",
+        "glizzy_blu_08",
+        "glizzy_blu_09",
+        "glizzy_blu_10",
+        "glizzy_blu_11",
+        "glizzy_blu_12",
+        "glizzy_blu_13",
+        "glizzy_blu_14",
+        "glizzy_blu_15",
+        "glizzy_blu_16",
+        "glizzy_blu_17",
+        "glizzy_blu_18",
+        "glizzy_blu_19",
+        "glizzy_blu_20",
+        "glizzy_blu_21",
+        "glizzy_blu_22",
+        "glizzy_blu_23",
+        "glizzy_blu_24",
+        "glizzy_blu_25",
+        "glizzy_blu_26",
+        "glizzy_blu_27",
+        "glizzy_blu_28",
+        "glizzy_blu_29",
+        "glizzy_blu_30",
+        "glizzy_blu_31",
+        "glizzy_blu_32",
+        "glizzy_blu_33",
+        "glizzy_blu_34",
+        "glizzy_blu_35",
+        "glizzy_blu_36",
+        "glizzy_blu_37",
+        "glizzy_blu_38",
+        "glizzy_blu_39",
+        "glizzy_blu_40",
+        "glizzy_blu_41",
+        "glizzy_blu_42",
+        "glizzy_blu_43",
+        "glizzy_blu_44",
+        "glizzy_blu_45",
+        "glizzy_blu_46",
+        "glizzy_blu_47",
+        "glizzy_blu_48",
+        "glizzy_blu_49",
+        "glizzy_blu_50",
+        "glizzy_blu_51",
+        "glizzy_blu_52",
+        "glizzy_blu_53",
+        "glizzy_blu_54",
+        "glizzy_blu_55",
+        "glizzy_blu_56",
+        "glizzy_blu_57",
+        "glizzy_blu_58",
+        "glizzy_blu_59"
+      ],
+      "framerate": 24.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"yap_blu_01",
+      "replacementSpriteNames": [
+        "yap_blu_01",
+        "yap_blu_02",
+        "yap_blu_03",
+        "yap_blu_04",
+        "yap_blu_05",
+        "yap_blu_06",
+        "yap_blu_07",
+        "yap_blu_08",
+        "yap_blu_09",
+        "yap_blu_10",
+        "yap_blu_11",
+        "yap_blu_12",
+        "yap_blu_13",
+        "yap_blu_14",
+        "yap_blu_15",
+        "yap_blu_16"
+      ],
+      "framerate": 12.0,
+      "materialBase": ""
     }
   ],
   "globalMaterialBase": "Item_Hand_Cosmetic_Basic",
@@ -865,6 +955,85 @@
       "replacementSprite": {
         "instanceID": 0
       }
+    }
+  ],
+  "emotes": [
+    {
+        "id": "glizzy",
+        "name": "Glizzy",
+        "spriteName": "glizzy_blu_00",
+        "position": {
+            "x": 0.0,
+            "y": 0.3,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "fu",
+        "name": "Fuck you",
+        "spriteName": "fu_blu",
+        "position": {
+            "x": 0.0,
+            "y": 0.3,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "lu",
+        "name": "Heart",
+        "spriteName": "heart_blu",
+        "position": {
+            "x": 0.27,
+            "y": 0.3,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "point",
+        "name": "Point",
+        "spriteName": "point_blu",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "thumbsup",
+        "name": "Thumbs Up",
+        "spriteName": "thumbsup_blu",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "thumbsdown",
+        "name": "Thumbs Down",
+        "spriteName": "thumbsdown_blu",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "yapping",
+        "name": "Yapping",
+        "spriteName": "yap_blu_01",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
     }
   ]
 }
