@@ -1702,9 +1702,176 @@
       ],
       "framerate": 1.0,
       "materialBase": ""
+    },
+    {
+      "spriteName":"glizzy_00",
+      "replacementSpriteNames": [
+        "glizzy_00",
+        "glizzy_01",
+        "glizzy_02",
+        "glizzy_03",
+        "glizzy_04",
+        "glizzy_05",
+        "glizzy_06",
+        "glizzy_07",
+        "glizzy_08",
+        "glizzy_09",
+        "glizzy_10",
+        "glizzy_11",
+        "glizzy_12",
+        "glizzy_13",
+        "glizzy_14",
+        "glizzy_15",
+        "glizzy_16",
+        "glizzy_17",
+        "glizzy_18",
+        "glizzy_19",
+        "glizzy_20",
+        "glizzy_21",
+        "glizzy_22",
+        "glizzy_23",
+        "glizzy_24",
+        "glizzy_25",
+        "glizzy_26",
+        "glizzy_27",
+        "glizzy_28",
+        "glizzy_29",
+        "glizzy_30",
+        "glizzy_31",
+        "glizzy_32",
+        "glizzy_33",
+        "glizzy_34",
+        "glizzy_35",
+        "glizzy_36",
+        "glizzy_37",
+        "glizzy_38",
+        "glizzy_39",
+        "glizzy_40",
+        "glizzy_41",
+        "glizzy_42",
+        "glizzy_43",
+        "glizzy_44",
+        "glizzy_45",
+        "glizzy_46",
+        "glizzy_47",
+        "glizzy_48",
+        "glizzy_49",
+        "glizzy_50",
+        "glizzy_51",
+        "glizzy_52",
+        "glizzy_53",
+        "glizzy_54",
+        "glizzy_55",
+        "glizzy_56",
+        "glizzy_57",
+        "glizzy_58",
+        "glizzy_59"
+      ],
+      "framerate": 24.0,
+      "materialBase": ""
+    },
+    {
+      "spriteName":"yap_01",
+      "replacementSpriteNames": [
+        "yap_01",
+        "yap_02",
+        "yap_03",
+        "yap_04",
+        "yap_05",
+        "yap_06",
+        "yap_07",
+        "yap_08",
+        "yap_09",
+        "yap_10",
+        "yap_11",
+        "yap_12",
+        "yap_13",
+        "yap_14",
+        "yap_15",
+        "yap_16"
+      ],
+      "framerate": 12.0,
+      "materialBase": ""
     }
-    
-    
+  ],
+  "emotes": [
+    {
+        "id": "glizzy",
+        "name": "Glizzy",
+        "spriteName": "glizzy_00",
+        "position": {
+            "x": 0.0,
+            "y": 0.3,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "fu",
+        "name": "Fuck you",
+        "spriteName": "fu",
+        "position": {
+            "x": 0.0,
+            "y": 0.3,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "lu",
+        "name": "Heart",
+        "spriteName": "heart",
+        "position": {
+            "x": 0.27,
+            "y": 0.3,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "point",
+        "name": "Point",
+        "spriteName": "point",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "thumbsup",
+        "name": "Thumbs Up",
+        "spriteName": "thumbsup",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "thumbsdown",
+        "name": "Thumbs Down",
+        "spriteName": "thumbsdown",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    },
+    {
+        "id": "yapping",
+        "name": "Yapping",
+        "spriteName": "yap_01",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "sound": ""
+    }
   ],
   "globalMaterialBase": "Item_Hand_Cosmetic_Basic",
   "forceGlobalMaterialOntoHands": false,
