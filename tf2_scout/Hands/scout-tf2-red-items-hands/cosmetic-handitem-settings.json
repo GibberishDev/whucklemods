@@ -1768,6 +1768,15 @@
       "offset":{"x":0.13,"y":0.035}
     },
     {
+      "spriteName":"Watch_0",
+      "replacementSpriteNames": [
+        "Watch_0"
+      ],
+      "framerate": 1.0,
+      "materialBase": "",
+      "offset":{"x":0.02,"y":0.01}
+    },
+    {
       "spriteName":"glizzy_red_00",
       "replacementSpriteNames": [
         "glizzy_red_00",

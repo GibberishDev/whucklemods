@@ -59,13 +59,13 @@ To install manually:
 > Vanilla cosmetic system for voices doesnt support custom sounds outside very limited range of player sounds.
 
 # ToDo
-<p align='center'>20 / 28 [████████████████████▓▓▓▓▓▒▒▒] 71% Done</p>
+<p align='center'>21 / 28 [█████████████████████▓▓▓▓▒▒▒] 75% Done</p>
 
 | <center>Done?</center> | <center>White Knuckle Item</center> | <center>Retexture</center> |
 | --- | --- | --- |
 | ✓ | Slub | Tiny pyro (team colored)|
 | ✓ | Injector | Bonk™ styled injector (team colored)|
-| ✓ | Veans | Bonk™ and Crit-a-Cola cans (team colored)|
+| ✓ | Beans | Bonk™ and Crit-a-Cola cans (team colored)|
 | ✓ | Explosive rebar | soldiers rocket|
 | ✓ | Foodbar | Dalokohs bar (team colored)|
 | ✓ | Milk | Mad milk|
@@ -84,7 +84,7 @@ To install manually:
 | ✘ | Festive Rebar | Scout TF2 candy cane |
 | ✘ | Cocoa | Demo's botl|
 | ✓ | Pipewrench (parasite) | Engie wrench|
-| ✘ | Timepiece artifact | Deadringer|
+| ✓ | Timepiece artifact | Deadringer|
 | ✘ | Remote artifact | Destruction pda|
 | ✘ | Astro glove artifact | Hot hand|
 | ? | Floppy disks | TF2 recolors and TF2 logo|
