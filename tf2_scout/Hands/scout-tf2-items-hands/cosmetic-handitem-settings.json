@@ -1704,6 +1704,70 @@
       "materialBase": ""
     },
     {
+      "spriteName":"Item_Hands_Pipewrench_Orange",
+      "replacementSpriteNames": [
+        "wrench"
+      ],
+      "framerate": 1.0,
+      "materialBase": "",
+      "offset": {"x":0.075,"y":0.2},
+      "scale":1.2
+    },
+    {
+      "spriteName":"Item_Hands_EntityScanner2_0",
+      "replacementSpriteNames": [
+        "scanner_0"
+      ],
+      "framerate": 1.0,
+      "materialBase": "",
+      "offset": {"x":0.18,"y":0.1}
+    },
+    {
+      "spriteName":"Item_Hands_EntityScanner2_1",
+      "replacementSpriteNames": [
+        "scanner_1"
+      ],
+      "framerate": 1.0,
+      "materialBase": "",
+      "offset":{"x":0.17,"y":0.035}
+    },
+    {
+      "spriteName":"Item_Hands_EntityScanner2_2",
+      "replacementSpriteNames": [
+        "scanner_2"
+      ],
+      "framerate": 1.0,
+      "materialBase": "",
+      "offset":{"x":0.13,"y":0.035}
+    },
+    {
+      "spriteName":"Item_Hands_EntityScanner2_3",
+      "replacementSpriteNames": [
+        "scanner_5"
+      ],
+      "framerate": 1.0,
+      "materialBase": "",
+      "offset": {"x":0.18,"y":0.1}
+    },
+    {
+      "spriteName":"Item_Hands_EntityScanner2_4",
+      "replacementSpriteNames": [
+        "scanner_4"
+      ],
+      "framerate": 1.0,
+      "materialBase": "",
+      "offset":{"x":0.13,"y":0.035}
+    },
+    {
+      "spriteName":"Item_Hands_EntityScanner2_5",
+      "replacementSpriteNames": [
+        "scanner_3"
+      ],
+      "framerate": 1.0,
+      "materialBase": "",
+      "offset":{"x":0.13,"y":0.035}
+    },
+    {
       "spriteName":"glizzy_00",
       "replacementSpriteNames": [
         "glizzy_00",

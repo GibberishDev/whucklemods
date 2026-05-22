@@ -59,7 +59,7 @@ To install manually:
 > Vanilla cosmetic system for voices doesnt support custom sounds outside very limited range of player sounds.
 
 # ToDo
-<p align='center'>18 / 28 [██████████████████▓▓▓▓▓▓▒▒▒▒] 64% Done</p>
+<p align='center'>20 / 28 [████████████████████▓▓▓▓▓▒▒▒] 71% Done</p>
 
 | <center>Done?</center> | <center>White Knuckle Item</center> | <center>Retexture</center> |
 | --- | --- | --- |
@@ -83,13 +83,13 @@ To install manually:
 | ✓ | Rope Rebar | Hunstman arrow with rope coil|
 | ✘ | Festive Rebar | Scout TF2 candy cane |
 | ✘ | Cocoa | Demo's botl|
-| ✘ | Pipewrench (parasite) | Engie wrench|
+| ✓ | Pipewrench (parasite) | Engie wrench|
 | ✘ | Timepiece artifact | Deadringer|
 | ✘ | Remote artifact | Destruction pda|
 | ✘ | Astro glove artifact | Hot hand|
 | ? | Floppy disks | TF2 recolors and TF2 logo|
 | ? | Brick | Flying Guillotine (I think brick is the only item using *2D4 sprite)|
-| ? | Scanner | Wrangler with rescue ranger screen|
+| ✓ | Scanner | Wrangler with rescue ranger screen|
 | ? | Translocator artifact | Tiny~~desk™~~ engineer teleporter|
 
 
