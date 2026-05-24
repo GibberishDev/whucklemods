@@ -45,7 +45,7 @@
     {
       "spriteName": "HND_B2D4",
       "replacementSpriteNames": [
-        "HND_B2D4"
+        "HND_B2B4"
       ],
       "framerate": 1.0,
       "materialBase": ""
@@ -301,7 +301,7 @@
     {
       "spriteName": "HND_F2D4",
       "replacementSpriteNames": [
-        "HND_F2D4"
+        "HND_F2B4"
       ],
       "framerate": 1.0,
       "materialBase": ""
@@ -1865,6 +1865,43 @@
       ],
       "framerate": 12.0,
       "materialBase": ""
+    },
+    {
+      "spriteName":"Item_Hands_Rubble_Brick",
+      "replacementSpriteNames": [
+        "guillotine"
+      ],
+      "framerate": 1.0,
+      "materialBase": "",
+      "scale":1.2,
+      "offset":{
+        "x":-0.055,
+        "y":0.42
+      }
+    },
+    {
+      "spriteName":"Item_Hands_Rebar_Candycane_0",
+      "replacementSpriteNames": [
+        "Item_Hands_Rebar_Candycane_0"
+      ],
+      "framerate": 1.0,
+      "materialBase": "",
+      "offset":{
+        "x":-0.1,
+        "y":0.2
+      }
+    },
+    {
+      "spriteName":"Item_Hands_Rebar_Candycane_1",
+      "replacementSpriteNames": [
+        "Item_Hands_Rebar_Candycane_1"
+      ],
+      "framerate": 1.0,
+      "materialBase": "",
+      "offset":{
+        "x":-0.25,
+        "y":-0.75
+      }
     }
   ],
   "globalMaterialBase": "Item_Hand_Cosmetic_Basic",
