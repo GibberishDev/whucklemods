@@ -82,7 +82,7 @@ To install manually:
 | ✓ | Rebar | Hunstman arrow|
 | ✓ | Rope Rebar | Hunstman arrow with rope coil|
 | ✓ | Festive Rebar | Scout TF2 candy cane |
-| ✓ | Festive Rope Rebar | Scout TF2 candy cane with rope coil |
+| ✘ | Festive Rope Rebar | Scout TF2 candy cane with rope coil |
 | ✘ | Cocoa | Demo's botl|
 | ✓ | Pipewrench (parasite) | Engie wrench|
 | ✓ | Timepiece artifact | Deadringer|
