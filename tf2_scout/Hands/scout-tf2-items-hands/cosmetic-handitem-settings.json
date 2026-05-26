@@ -1,2108 +1,1286 @@
 {
-    "id": "tf2-scout-items-hands",
-    "cosmeticName": "Scout TF2 (Items)",
-    "author": "GibbDev",
-    "description": "This pack includes TF2 themed item retextures",
-    "credits": "Valve corp - Team Fortress 2 2007-Present",
-    "unlock": "",
-    "allowedSpecialtyPoses": [
-        "sprint",
-        "crouch"
-    ],
-    "swapSprites": [
-    {
-      "spriteName": "HND_B2D1",
-      "replacementSpriteNames": [
-        "HND_B2D1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2D3",
-      "replacementSpriteNames": [
-        "HND_B2D3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2D2",
-      "replacementSpriteNames": [
-        "HND_B2D2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2C4",
-      "replacementSpriteNames": [
-        "HND_B2C4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2D4",
-      "replacementSpriteNames": [
-        "HND_B2B4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2C1",
-      "replacementSpriteNames": [
-        "HND_B2C1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2C2",
-      "replacementSpriteNames": [
-        "HND_B2C2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2B4",
-      "replacementSpriteNames": [
-        "HND_B2B4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2C3",
-      "replacementSpriteNames": [
-        "HND_B2C3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2B3",
-      "replacementSpriteNames": [
-        "HND_B2B3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2B2",
-      "replacementSpriteNames": [
-        "HND_B2B2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2B1",
-      "replacementSpriteNames": [
-        "HND_B2B1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2A2",
-      "replacementSpriteNames": [
-        "HND_B2A2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2A3",
-      "replacementSpriteNames": [
-        "HND_B2A3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2A1",
-      "replacementSpriteNames": [
-        "HND_B2A1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B2A4",
-      "replacementSpriteNames": [
-        "HND_B2A4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1C1",
-      "replacementSpriteNames": [
-        "HND_F1C1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1C3",
-      "replacementSpriteNames": [
-        "HND_F1C3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1C2",
-      "replacementSpriteNames": [
-        "HND_F1C2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1D4",
-      "replacementSpriteNames": [
-        "HND_F1D4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1C4",
-      "replacementSpriteNames": [
-        "HND_F1C4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1D1",
-      "replacementSpriteNames": [
-        "HND_F1D1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1D2",
-      "replacementSpriteNames": [
-        "HND_F1D2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1D3",
-      "replacementSpriteNames": [
-        "HND_F1D3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1A3",
-      "replacementSpriteNames": [
-        "HND_F1A3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1A2",
-      "replacementSpriteNames": [
-        "HND_F1A2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1A1",
-      "replacementSpriteNames": [
-        "HND_F1A1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1B4",
-      "replacementSpriteNames": [
-        "HND_F1B4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1A4",
-      "replacementSpriteNames": [
-        "HND_F1A4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1B2",
-      "replacementSpriteNames": [
-        "HND_F1B2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1B3",
-      "replacementSpriteNames": [
-        "HND_F1B3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F1B1",
-      "replacementSpriteNames": [
-        "HND_F1B1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "MF2",
-      "replacementSpriteNames": [
-        "MF2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "MF3",
-      "replacementSpriteNames": [
-        "MF3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "MF1",
-      "replacementSpriteNames": [
-        "MF1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2A4",
-      "replacementSpriteNames": [
-        "HND_F2A4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2D4",
-      "replacementSpriteNames": [
-        "HND_F2B4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2D3",
-      "replacementSpriteNames": [
-        "HND_F2D3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2D2",
-      "replacementSpriteNames": [
-        "HND_F2D2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2D1",
-      "replacementSpriteNames": [
-        "HND_F2D1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2C4",
-      "replacementSpriteNames": [
-        "HND_F2C4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2C2",
-      "replacementSpriteNames": [
-        "HND_F2C2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2C3",
-      "replacementSpriteNames": [
-        "HND_F2C3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2C1",
-      "replacementSpriteNames": [
-        "HND_F2C1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2B1",
-      "replacementSpriteNames": [
-        "HND_F2B1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2B3",
-      "replacementSpriteNames": [
-        "HND_F2B3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2B2",
-      "replacementSpriteNames": [
-        "HND_F2B2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2B4",
-      "replacementSpriteNames": [
-        "HND_F2B4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2A1",
-      "replacementSpriteNames": [
-        "HND_F2A1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2A2",
-      "replacementSpriteNames": [
-        "HND_F2A2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F2A3",
-      "replacementSpriteNames": [
-        "HND_F2A3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1A1",
-      "replacementSpriteNames": [
-        "HND_B1A1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1A3",
-      "replacementSpriteNames": [
-        "HND_B1A3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1A2",
-      "replacementSpriteNames": [
-        "HND_B1A2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1A4",
-      "replacementSpriteNames": [
-        "HND_B1A4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1B1",
-      "replacementSpriteNames": [
-        "HND_B1B1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1B2",
-      "replacementSpriteNames": [
-        "HND_B1B2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1D2",
-      "replacementSpriteNames": [
-        "HND_B1D2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1B3",
-      "replacementSpriteNames": [
-        "HND_B1B3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1C3",
-      "replacementSpriteNames": [
-        "HND_B1C3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1D3",
-      "replacementSpriteNames": [
-        "HND_B1D3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1B4",
-      "replacementSpriteNames": [
-        "HND_B1B4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1C2",
-      "replacementSpriteNames": [
-        "HND_B1C2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1C1",
-      "replacementSpriteNames": [
-        "HND_B1C1"
-      ],
-      "framerate": 1.0,
-      "hand": -1,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1D1",
-      "replacementSpriteNames": [
-        "HND_B1D1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1D4",
-      "replacementSpriteNames": [
-        "HND_B1D4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B1C4",
-      "replacementSpriteNames": [
-        "HND_B1C4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "PHA1",
-      "replacementSpriteNames": [
-        "PHA1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "PHA2",
-      "replacementSpriteNames": [
-        "PHA2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "PHA3",
-      "replacementSpriteNames": [
-        "PHA3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3A4",
-      "replacementSpriteNames": [
-        "HND_B3A4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3A3",
-      "replacementSpriteNames": [
-        "HND_B3A3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3A2",
-      "replacementSpriteNames": [
-        "HND_B3A2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3A1",
-      "replacementSpriteNames": [
-        "HND_B3A1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3D1",
-      "replacementSpriteNames": [
-        "HND_B3D1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3D2",
-      "replacementSpriteNames": [
-        "HND_B3D2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3B2",
-      "replacementSpriteNames": [
-        "HND_B3B2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3D3",
-      "replacementSpriteNames": [
-        "HND_B3D3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3B3",
-      "replacementSpriteNames": [
-        "HND_B3B3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3D4",
-      "replacementSpriteNames": [
-        "HND_B3D4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3B1",
-      "replacementSpriteNames": [
-        "HND_B3B1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3C4",
-      "replacementSpriteNames": [
-        "HND_B3C4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3B4",
-      "replacementSpriteNames": [
-        "HND_B3B4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3C1",
-      "replacementSpriteNames": [
-        "HND_B3C1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3C3",
-      "replacementSpriteNames": [
-        "HND_B3C3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_B3C2",
-      "replacementSpriteNames": [
-        "HND_B3C2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3C4",
-      "replacementSpriteNames": [
-        "HND_F3C4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3C3",
-      "replacementSpriteNames": [
-        "HND_F3C3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3C2",
-      "replacementSpriteNames": [
-        "HND_F3C2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3C1",
-      "replacementSpriteNames": [
-        "HND_F3C1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3A4",
-      "replacementSpriteNames": [
-        "HND_F3A4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3A1",
-      "replacementSpriteNames": [
-        "HND_F3A1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3A3",
-      "replacementSpriteNames": [
-        "HND_F3A3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3A2",
-      "replacementSpriteNames": [
-        "HND_F3A2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3B4",
-      "replacementSpriteNames": [
-        "HND_F3B4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3B1",
-      "replacementSpriteNames": [
-        "HND_F3B1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3B2",
-      "replacementSpriteNames": [
-        "HND_F3B2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3B3",
-      "replacementSpriteNames": [
-        "HND_F3B3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3D4",
-      "replacementSpriteNames": [
-        "HND_F3D4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3D2",
-      "replacementSpriteNames": [
-        "HND_F3D2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3D3",
-      "replacementSpriteNames": [
-        "HND_F3D3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName": "HND_F3D1",
-      "replacementSpriteNames": [
-        "HND_F3D1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Arms_Handed_Sheet",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Arms_Handed_Sheet_0",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Arms_Handed_Sheet_1",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Arms_Handed_Sheet_2",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Arms_Handed_Sheet_3",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Arms_Handed_Sheet_4",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Arms_Handed_Sheet_5",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Arms_Handed_Sheet_6",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Arms_Handed_Sheet_7",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Body_Sheet_0",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Body_Sheet_1",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Body_Sheet_2",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Body_Sheet_3",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Body_Sheet_4",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Body_Sheet_5",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Body_Sheet_6",
-      "replacementSpriteNames": [
-        "pyro_grub_head_0",
-        "pyro_grub_head_1",
-        "pyro_grub_head_2"
-      ],
-      "framerate": 48.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Body_Sheet_7",
-      "replacementSpriteNames": [
-        "pyro_grub_head_squish"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Body_Sheet_8",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Body_Sheet_9",
-      "replacementSpriteNames": [
-        "pyro_grub_red_body"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Body_Sheet_10",
-      "replacementSpriteNames": [
-        "pyro_grub_red_squish"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Body_Sheet_11",
-      "replacementSpriteNames": [
-        "Explosion_01_Medium_0",
-        "Explosion_01_Medium_1",
-        "Explosion_01_Medium_2",
-        "Explosion_01_Medium_3",
-        "Explosion_01_Medium_4",
-        "Explosion_01_Medium_5",
-        "Explosion_01_Medium_6",
-        "Explosion_01_Medium_7"
-      ],
-      "framerate": 20.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_0",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_1",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_2",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_3",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_4",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_5",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_6",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_7",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_8",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_9",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_10",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_11",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_12",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_13",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_14",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_15",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_16",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_17",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_18",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_HeadExpressions_Sheet_19",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Tails_Sheet_0",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Tails_Sheet_1",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Tails_Sheet_2",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Tails_Sheet_3",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Tails_Sheet_4",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Tails_Sheet_5",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Tail_Slug_Sheet_0",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Tail_Slug_Sheet_1",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Tail_Slug_Sheet_2",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Tail_Slug_Sheet_3",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Tail_Slug_Sheet_4",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Slub_Tail_Slug_Sheet_5",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Injector_Strip_0",
-      "replacementSpriteNames": [
-        "Item_Hands_Injector_0"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Injector_Strip_1",
-      "replacementSpriteNames": [
-        "Item_Hands_Injector_1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Injector_Strip_2",
-      "replacementSpriteNames": [
-        "Item_Hands_Injector_2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Bean_Sheet_0",
-      "replacementSpriteNames": [
-        "beans_0"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Bean_Sheet_1",
-      "replacementSpriteNames": [
-        "beans_1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Bean_Sheet_2",
-      "replacementSpriteNames": [
-        "beans_1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Bean_Sheet_3",
-      "replacementSpriteNames": [
-        "beans_2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Hands_Rebar_Explosive",
-      "replacementSpriteNames": [
-        "rebar_explosive_0"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Hands_Rebar_Explosive_Primed",
-      "replacementSpriteNames": [
-        "rebar_explosive_1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Foodbar_Strip_0",
-      "replacementSpriteNames": [
-        "food_bar_red_0"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Foodbar_Strip_1",
-      "replacementSpriteNames": [
-        "food_bar_red_1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"milk_carton_FG3",
-      "replacementSpriteNames": [
-        "milk_2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"milk_carton_FG2",
-      "replacementSpriteNames": [
-        "milk_1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"milk_carton_FG1",
-      "replacementSpriteNames": [
-        "milk_0"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"milk_carton_BG2",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"milk_carton_BG1",
-      "replacementSpriteNames": [
-        "empty"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"MAT_CandyCauldron_0",
-      "replacementSpriteNames": [
-        "cauldron_0"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"MAT_CandyCauldron_1",
-      "replacementSpriteNames": [
-        "cauldron_1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"MAT_CandyCauldron_2",
-      "replacementSpriteNames": [
-        "cauldron_2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"MAT_CandyCauldron_3",
-      "replacementSpriteNames": [
-        "cauldron_3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_hands_bandage",
-      "replacementSpriteNames": [
-        "medkit"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Trinket_PhotoOfHome_HandItem",
-      "replacementSpriteNames": [
-        "Trinket_PhotoOfHome_HandItem"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Trinket_EmployeeID_HandItem",
-      "replacementSpriteNames": [
-        "Trinket_EmployeeID_HandItem"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"FlaregunAmoSpin_2",
-      "replacementSpriteNames": [
-        "FlaregunAmoSpin_2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"EyeSpriteFrames_0",
-      "replacementSpriteNames": [
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_0",
-        "eye_idle_1",
-        "eye_idle_2",
-        "eye_idle_1",
-        "eye_idle_3",
-        "eye_idle_3",
-        "eye_idle_3",
-        "eye_idle_3",
-        "eye_idle_4",
-        "eye_idle_4",
-        "eye_idle_4",
-        "eye_idle_4",
-        "eye_idle_4",
-        "eye_idle_4"
-      ],
-      "framerate": 8.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"EyeSpriteFrames_1",
-      "replacementSpriteNames": [
-        "eye_squish_1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"EyeSpriteFrames_2",
-      "replacementSpriteNames": [
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_stage_2_0",
-        "eye_idle_1",
-        "eye_idle_2",
-        "eye_idle_1"
-      ],
-      "framerate": 8.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"EyeSpriteFrames_3",
-      "replacementSpriteNames": [
-        "eye_squish_2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"EyeSpriteFrames_4",
-      "replacementSpriteNames": [
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_stage_3_0",
-        "eye_idle_2",
-        "eye_idle_2"
-      ],
-      "framerate": 8.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"EyeSpriteFrames_5",
-      "replacementSpriteNames": [
-        "eye_death_0"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"EyeSpriteFrames_6",
-      "replacementSpriteNames": [
-        "eye_death_1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Flaregun_idle_cocked",
-      "replacementSpriteNames": [
-        "flaregun_red_4"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Flaregun_idle_uncocked",
-      "replacementSpriteNames": [
-        "flaregun_red_3"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Flaregun_Cocked",
-      "replacementSpriteNames": [
-        "flaregun_red_1"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Flaregun_uncocked",
-      "replacementSpriteNames": [
-        "flaregun_red_0"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Flaregun_recoil",
-      "replacementSpriteNames": [
-        "flaregun_red_2"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Hands_Piton",
-      "replacementSpriteNames": [
-        "Item_Hands_Piton"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Hands_Piton_Enthusiast",
-      "replacementSpriteNames": [
-        "Item_Hands_Piton_Enthusiast"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Hands_Piton_Holiday",
-      "replacementSpriteNames": [
-        "Item_Hands_Piton_Holiday"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Hands_Rebar",
-      "replacementSpriteNames": [
-        "Item_Hands_Rebar"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Hands_Rebar_Primed",
-      "replacementSpriteNames": [
-        "Item_Hands_Rebar_Primed"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Hands_RebarRope",
-      "replacementSpriteNames": [
-        "Item_Hands_RebarRope"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Hands_RebarRope_Primed",
-      "replacementSpriteNames": [
-        "Item_Hands_RebarRope_Primed"
-      ],
-      "framerate": 1.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Hands_Pipewrench_Orange",
-      "replacementSpriteNames": [
-        "wrench"
-      ],
-      "framerate": 1.0,
-      "materialBase": "",
-      "offset": {"x":0.075,"y":0.2},
-      "scale":1.2
-    },
-    {
-      "spriteName":"Item_Hands_EntityScanner2_0",
-      "replacementSpriteNames": [
-        "scanner_0"
-      ],
-      "framerate": 1.0,
-      "materialBase": "",
-      "offset": {"x":0.18,"y":0.1}
-    },
-    {
-      "spriteName":"Item_Hands_EntityScanner2_1",
-      "replacementSpriteNames": [
-        "scanner_1"
-      ],
-      "framerate": 1.0,
-      "materialBase": "",
-      "offset":{"x":0.17,"y":0.035}
-    },
-    {
-      "spriteName":"Item_Hands_EntityScanner2_2",
-      "replacementSpriteNames": [
-        "scanner_2"
-      ],
-      "framerate": 1.0,
-      "materialBase": "",
-      "offset":{"x":0.13,"y":0.035}
-    },
-    {
-      "spriteName":"Item_Hands_EntityScanner2_3",
-      "replacementSpriteNames": [
-        "scanner_5"
-      ],
-      "framerate": 1.0,
-      "materialBase": "",
-      "offset": {"x":0.18,"y":0.1}
-    },
-    {
-      "spriteName":"Item_Hands_EntityScanner2_4",
-      "replacementSpriteNames": [
-        "scanner_4"
-      ],
-      "framerate": 1.0,
-      "materialBase": "",
-      "offset":{"x":0.13,"y":0.035}
-    },
-    {
-      "spriteName":"Item_Hands_EntityScanner2_5",
-      "replacementSpriteNames": [
-        "scanner_3"
-      ],
-      "framerate": 1.0,
-      "materialBase": "",
-      "offset":{"x":0.13,"y":0.035}
-    },
-    {
-      "spriteName":"Watch_0",
-      "replacementSpriteNames": [
-        "Watch_0"
-      ],
-      "framerate": 1.0,
-      "materialBase": "",
-      "offset":{"x":0.02,"y":0.01}
-    },
-    {
-      "spriteName":"Item_Hands_Rubble_Brick",
-      "replacementSpriteNames": [
-        "guillotine"
-      ],
-      "framerate": 1.0,
-      "materialBase": "",
-      "scale":1.2,
-      "offset":{
-        "x":-0.055,
-        "y":0.42
-      }
-    },
-    {
-      "spriteName":"glizzy_00",
-      "replacementSpriteNames": [
-        "glizzy_00",
-        "glizzy_01",
-        "glizzy_02",
-        "glizzy_03",
-        "glizzy_04",
-        "glizzy_05",
-        "glizzy_06",
-        "glizzy_07",
-        "glizzy_08",
-        "glizzy_09",
-        "glizzy_10",
-        "glizzy_11",
-        "glizzy_12",
-        "glizzy_13",
-        "glizzy_14",
-        "glizzy_15",
-        "glizzy_16",
-        "glizzy_17",
-        "glizzy_18",
-        "glizzy_19",
-        "glizzy_20",
-        "glizzy_21",
-        "glizzy_22",
-        "glizzy_23",
-        "glizzy_24",
-        "glizzy_25",
-        "glizzy_26",
-        "glizzy_27",
-        "glizzy_28",
-        "glizzy_29",
-        "glizzy_30",
-        "glizzy_31",
-        "glizzy_32",
-        "glizzy_33",
-        "glizzy_34",
-        "glizzy_35",
-        "glizzy_36",
-        "glizzy_37",
-        "glizzy_38",
-        "glizzy_39",
-        "glizzy_40",
-        "glizzy_41",
-        "glizzy_42",
-        "glizzy_43",
-        "glizzy_44",
-        "glizzy_45",
-        "glizzy_46",
-        "glizzy_47",
-        "glizzy_48",
-        "glizzy_49",
-        "glizzy_50",
-        "glizzy_51",
-        "glizzy_52",
-        "glizzy_53",
-        "glizzy_54",
-        "glizzy_55",
-        "glizzy_56",
-        "glizzy_57",
-        "glizzy_58",
-        "glizzy_59"
-      ],
-      "framerate": 24.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"yap_01",
-      "replacementSpriteNames": [
-        "yap_01",
-        "yap_02",
-        "yap_03",
-        "yap_04",
-        "yap_05",
-        "yap_06",
-        "yap_07",
-        "yap_08",
-        "yap_09",
-        "yap_10",
-        "yap_11",
-        "yap_12",
-        "yap_13",
-        "yap_14",
-        "yap_15",
-        "yap_16"
-      ],
-      "framerate": 12.0,
-      "materialBase": ""
-    },
-    {
-      "spriteName":"Item_Hands_Rebar_Candycane_0",
-      "replacementSpriteNames": [
-        "Item_Hands_Rebar_Candycane_0"
-      ],
-      "framerate": 1.0,
-      "materialBase": "",
-      "offset":{
-        "x":-0.1,
-        "y":0.2
-      }
-    },
-    {
-      "spriteName":"Item_Hands_Rebar_Candycane_1",
-      "replacementSpriteNames": [
-        "Item_Hands_Rebar_Candycane_1"
-      ],
-      "framerate": 1.0,
-      "materialBase": "",
-      "offset":{
-        "x":-0.25,
-        "y":-0.75
-      }
-    }
-  ],
-  "emotes": [
-    {
-        "id": "glizzy",
-        "name": "Glizzy",
-        "spriteName": "glizzy_00",
-        "position": {
-            "x": 0.0,
-            "y": 0.3,
-            "z": 0.0
-        },
-        "sound": ""
-    },
-    {
-        "id": "fu",
-        "name": "Fuck you",
-        "spriteName": "fu",
-        "position": {
-            "x": 0.0,
-            "y": 0.3,
-            "z": 0.0
-        },
-        "sound": ""
-    },
-    {
-        "id": "lu",
-        "name": "Heart",
-        "spriteName": "heart",
-        "position": {
-            "x": 0.27,
-            "y": 0.3,
-            "z": 0.0
-        },
-        "sound": ""
-    },
-    {
-        "id": "point",
-        "name": "Point",
-        "spriteName": "point",
-        "position": {
-            "x": 0.0,
-            "y": 0.2,
-            "z": 0.0
-        },
-        "sound": ""
-    },
-    {
-        "id": "thumbsup",
-        "name": "Thumbs Up",
-        "spriteName": "thumbsup",
-        "position": {
-            "x": 0.0,
-            "y": 0.2,
-            "z": 0.0
-        },
-        "sound": ""
-    },
-    {
-        "id": "thumbsdown",
-        "name": "Thumbs Down",
-        "spriteName": "thumbsdown",
-        "position": {
-            "x": 0.0,
-            "y": 0.2,
-            "z": 0.0
-        },
-        "sound": ""
-    },
-    {
-        "id": "yapping",
-        "name": "Yapping",
-        "spriteName": "yap_01",
-        "position": {
-            "x": 0.0,
-            "y": 0.2,
-            "z": 0.0
-        },
-        "sound": ""
-    }
-  ],
-  "globalMaterialBase": "Item_Hand_Cosmetic_Basic",
-  "forceGlobalMaterialOntoHands": false,
-  "useCustomStaminaColor": false,
-  "customStaminaColor": {
-      "r": 0.8,
-      "g": 0.2,
-      "b": 0.0,
-      "a": 0.6
-  },
-  "interactSwaps": [
-    {
-      "spriteName": "interact-hand-grabbed",
-      "replacementSpriteName": "interact-hand-grabbed",
-      "replacementSprite": {
-        "instanceID": 2
-      }
-    },
-    {
-      "spriteName": "interact-hand-item",
-      "replacementSpriteName": "interact-hand-item"
-    },
-    {
-      "spriteName": "interact-hand-open",
-      "replacementSpriteName": "interact-hand-open",
-      "replacementSprite": {
-        "instanceID": 0
-      }
-    },
-    {
-      "spriteName": "interact-hand-point",
-      "replacementSpriteName": "interact-hand-point",
-      "replacementSprite": {
-        "instanceID": 0
-      }
-    },
-    {
-      "spriteName": "hand-sheet_11",
-      "replacementSpriteName": "interact-hand-item",
-      "replacementSprite": {
-        "instanceID": 0
-      }
-    }
-  ],
-  "emotes": [
-    {
-        "id": "glizzy",
-        "name": "Glizzy",
-        "spriteName": "glizzy_red_00",
-        "position": {
-            "x": 0.0,
-            "y": 0.3,
-            "z": 0.0
-        },
-        "sound": ""
-    },
-    {
-        "id": "fu",
-        "name": "Fuck you",
-        "spriteName": "fu_red",
-        "position": {
-            "x": 0.0,
-            "y": 0.3,
-            "z": 0.0
-        },
-        "sound": ""
-    },
-    {
-        "id": "lu",
-        "name": "Heart",
-        "spriteName": "heart_red",
-        "position": {
-            "x": 0.27,
-            "y": 0.3,
-            "z": 0.0
-        },
-        "sound": ""
-    },
-    {
-        "id": "point",
-        "name": "Point",
-        "spriteName": "point_red",
-        "position": {
-            "x": 0.0,
-            "y": 0.2,
-            "z": 0.0
-        },
-        "sound": ""
-    },
-    {
-        "id": "thumbsup",
-        "name": "Thumbs Up",
-        "spriteName": "thumbsup_red",
-        "position": {
-            "x": 0.0,
-            "y": 0.2,
-            "z": 0.0
-        },
-        "sound": ""
-    },
-    {
-        "id": "thumbsdown",
-        "name": "Thumbs Down",
-        "spriteName": "thumbsdown_red",
-        "position": {
-            "x": 0.0,
-            "y": 0.2,
-            "z": 0.0
-        },
-        "sound": ""
-    },
-    {
-        "id": "yapping",
-        "name": "Yapping",
-        "spriteName": "yap_red_01",
-        "position": {
-            "x": 0.0,
-            "y": 0.2,
-            "z": 0.0
-        },
-        "sound": ""
-    }
-  ]
+	"id": "tf2-scout-items-hands",
+	"cosmeticName": "Scout TF2 (Items)",
+	"author": "GibbDev",
+	"description": "This pack includes TF2 themed item retextures",
+	"credits": "Valve corp - Team Fortress 2 2007-Present",
+	"unlock": "",
+	"allowedSpecialtyPoses": [
+		"sprint",
+		"crouch"
+	],
+	"swapSprites": [
+	{"spriteName": "HND_B1A1","replacementSpriteNames": ["HND_B1A1"]},
+	{"spriteName": "HND_B1A2","replacementSpriteNames": ["HND_B1A2"]},
+	{"spriteName": "HND_B1A3","replacementSpriteNames": ["HND_B1A3"]},
+	{"spriteName": "HND_B1A4","replacementSpriteNames": ["HND_B1A4"]},
+	{"spriteName": "HND_B1B1","replacementSpriteNames": ["HND_B1B1"]},
+	{"spriteName": "HND_B1B2","replacementSpriteNames": ["HND_B1B2"]},
+	{"spriteName": "HND_B1B3","replacementSpriteNames": ["HND_B1B3"]},
+	{"spriteName": "HND_B1B4","replacementSpriteNames": ["HND_B1B4"]},
+	{"spriteName": "HND_B1C1","replacementSpriteNames": ["HND_B1C1"]},
+	{"spriteName": "HND_B1C2","replacementSpriteNames": ["HND_B1C2"]},
+
+	{"spriteName": "HND_B2A1","replacementSpriteNames": ["HND_B2A1"]},
+	{"spriteName": "HND_B2A2","replacementSpriteNames": ["HND_B2A2"]},
+	{"spriteName": "HND_B2A3","replacementSpriteNames": ["HND_B2A3"]},
+	{"spriteName": "HND_B2A4","replacementSpriteNames": ["HND_B2A4"]},
+	{"spriteName": "HND_B2B1","replacementSpriteNames": ["HND_B2B1"]},
+	{"spriteName": "HND_B2B2","replacementSpriteNames": ["HND_B2B2"]},
+	{"spriteName": "HND_B2B3","replacementSpriteNames": ["HND_B2B3"]},
+	{"spriteName": "HND_B2B4","replacementSpriteNames": ["HND_B2B4"]},
+	{"spriteName": "HND_B2C1","replacementSpriteNames": ["HND_B2C1"]},
+	{"spriteName": "HND_B2C2","replacementSpriteNames": ["HND_B2C2"]},
+	{"spriteName": "HND_B2C3","replacementSpriteNames": ["HND_B2C3"]},
+	{"spriteName": "HND_B2C4","replacementSpriteNames": ["HND_B2C4"]},
+	{"spriteName": "HND_B2D1","replacementSpriteNames": ["HND_B2D1"]},
+	{"spriteName": "HND_B2D2","replacementSpriteNames": ["HND_B2D2"]},
+	{"spriteName": "HND_B2D3","replacementSpriteNames": ["HND_B2D3"]},
+	{"spriteName": "HND_B2D4","replacementSpriteNames": ["HND_B2B4"]},
+
+	{"spriteName": "HND_F2A1","replacementSpriteNames": ["HND_F2A1"]},
+	{"spriteName": "HND_F2A2","replacementSpriteNames": ["HND_F2A2"]},
+	{"spriteName": "HND_F2A3","replacementSpriteNames": ["HND_F2A3"]},
+	{"spriteName": "HND_F2A4","replacementSpriteNames": ["HND_F2A4"]},
+	{"spriteName": "HND_F2B1","replacementSpriteNames": ["HND_F2B1"]},
+	{"spriteName": "HND_F2B2","replacementSpriteNames": ["HND_F2B2"]},
+	{"spriteName": "HND_F2B3","replacementSpriteNames": ["HND_F2B3"]},
+	{"spriteName": "HND_F2B4","replacementSpriteNames": ["HND_F2B4"]},
+	{"spriteName": "HND_F2C1","replacementSpriteNames": ["HND_F2C1"]},
+	{"spriteName": "HND_F2C2","replacementSpriteNames": ["HND_F2C2"]},
+	{"spriteName": "HND_F2C3","replacementSpriteNames": ["HND_F2C3"]},
+	{"spriteName": "HND_F2C4","replacementSpriteNames": ["HND_F2C4"]},
+	{"spriteName": "HND_F2D1","replacementSpriteNames": ["HND_F2D1"]},
+	{"spriteName": "HND_F2D2","replacementSpriteNames": ["HND_F2D2"]},
+	{"spriteName": "HND_F2D3","replacementSpriteNames": ["HND_F2D3"]},
+	{"spriteName": "HND_F2D4","replacementSpriteNames": ["HND_F2B4"],"comment":"ON PURPOSE!!! Its for holding guillotine reskin"}, 
+
+	{"spriteName": "HND_B3A1","replacementSpriteNames": ["HND_B3A1"]},
+	{"spriteName": "HND_B3A2","replacementSpriteNames": ["HND_B3A2"]},
+	{"spriteName": "HND_B3A3","replacementSpriteNames": ["HND_B3A3"]},
+	{"spriteName": "HND_B3A4","replacementSpriteNames": ["HND_B3A4"]},
+	{"spriteName": "HND_B3B1","replacementSpriteNames": ["HND_B3B1"]},
+	{"spriteName": "HND_B3B2","replacementSpriteNames": ["HND_B3B2"]},
+	{"spriteName": "HND_B3B3","replacementSpriteNames": ["HND_B3B3"]},
+	{"spriteName": "HND_B3B4","replacementSpriteNames": ["HND_B3B4"]},
+	{"spriteName": "HND_B3C1","replacementSpriteNames": ["HND_B3C1"]},
+	{"spriteName": "HND_B3C2","replacementSpriteNames": ["HND_B3C2"]},
+	{"spriteName": "HND_B3C3","replacementSpriteNames": ["HND_B3C3"]},
+	{"spriteName": "HND_B3C4","replacementSpriteNames": ["HND_B3C4"]},
+	{"spriteName": "HND_B3D1","replacementSpriteNames": ["HND_B3D1"]},
+	{"spriteName": "HND_B3D2","replacementSpriteNames": ["HND_B3D2"]},
+	{"spriteName": "HND_B3D3","replacementSpriteNames": ["HND_B3D3"]},
+	{"spriteName": "HND_B3D4","replacementSpriteNames": ["HND_B3D4"]},
+
+	{"spriteName": "HND_F3A1","replacementSpriteNames": ["HND_F3A1"]},
+	{"spriteName": "HND_F3A2","replacementSpriteNames": ["HND_F3A2"]},
+	{"spriteName": "HND_F3A3","replacementSpriteNames": ["HND_F3A3"]},
+	{"spriteName": "HND_F3A4","replacementSpriteNames": ["HND_F3A4"]},
+	{"spriteName": "HND_F3B1","replacementSpriteNames": ["HND_F3B1"]},
+	{"spriteName": "HND_F3B2","replacementSpriteNames": ["HND_F3B2"]},
+	{"spriteName": "HND_F3B3","replacementSpriteNames": ["HND_F3B3"]},
+	{"spriteName": "HND_F3B4","replacementSpriteNames": ["HND_F3B4"]},
+	{"spriteName": "HND_F3C1","replacementSpriteNames": ["HND_F3C1"]},
+	{"spriteName": "HND_F3C2","replacementSpriteNames": ["HND_F3C2"]},
+	{"spriteName": "HND_F3C3","replacementSpriteNames": ["HND_F3C3"]},
+	{"spriteName": "HND_F3C4","replacementSpriteNames": ["HND_F3C4"]},
+	{"spriteName": "HND_F3D1","replacementSpriteNames": ["HND_F3D1"]},
+	{"spriteName": "HND_F3D2","replacementSpriteNames": ["HND_F3D2"]},
+	{"spriteName": "HND_F3D3","replacementSpriteNames": ["HND_F3D3"]},
+	{"spriteName": "HND_F3D4","replacementSpriteNames": ["HND_F3D4"]},
+
+	{
+	  "spriteName":"Slub_Arms_Handed_Sheet",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Arms_Handed_Sheet_0",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Arms_Handed_Sheet_1",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Arms_Handed_Sheet_2",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Arms_Handed_Sheet_3",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Arms_Handed_Sheet_4",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Arms_Handed_Sheet_5",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Arms_Handed_Sheet_6",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Arms_Handed_Sheet_7",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Body_Sheet_0",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Body_Sheet_1",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Body_Sheet_2",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Body_Sheet_3",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Body_Sheet_4",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Body_Sheet_5",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Body_Sheet_6",
+	  "replacementSpriteNames": [
+		"pyro_grub_head_0",
+		"pyro_grub_head_1",
+		"pyro_grub_head_2"
+	  ],
+	  "framerate": 48.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Body_Sheet_7",
+	  "replacementSpriteNames": [
+		"pyro_grub_head_squish"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Body_Sheet_8",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Body_Sheet_9",
+	  "replacementSpriteNames": [
+		"pyro_grub_red_body"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Body_Sheet_10",
+	  "replacementSpriteNames": [
+		"pyro_grub_red_squish"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Body_Sheet_11",
+	  "replacementSpriteNames": [
+		"Explosion_01_Medium_0",
+		"Explosion_01_Medium_1",
+		"Explosion_01_Medium_2",
+		"Explosion_01_Medium_3",
+		"Explosion_01_Medium_4",
+		"Explosion_01_Medium_5",
+		"Explosion_01_Medium_6",
+		"Explosion_01_Medium_7"
+	  ],
+	  "framerate": 20.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_0",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_1",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_2",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_3",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_4",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_5",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_6",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_7",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_8",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_9",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_10",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_11",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_12",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_13",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_14",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_15",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_16",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_17",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_18",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_HeadExpressions_Sheet_19",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Tails_Sheet_0",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Tails_Sheet_1",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Tails_Sheet_2",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Tails_Sheet_3",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Tails_Sheet_4",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Tails_Sheet_5",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Tail_Slug_Sheet_0",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Tail_Slug_Sheet_1",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Tail_Slug_Sheet_2",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Tail_Slug_Sheet_3",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Tail_Slug_Sheet_4",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Slub_Tail_Slug_Sheet_5",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Injector_Strip_0",
+	  "replacementSpriteNames": [
+		"Item_Hands_Injector_0"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Injector_Strip_1",
+	  "replacementSpriteNames": [
+		"Item_Hands_Injector_1"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Injector_Strip_2",
+	  "replacementSpriteNames": [
+		"Item_Hands_Injector_2"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Bean_Sheet_0",
+	  "replacementSpriteNames": [
+		"beans_0"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Bean_Sheet_1",
+	  "replacementSpriteNames": [
+		"beans_1"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Bean_Sheet_2",
+	  "replacementSpriteNames": [
+		"beans_1"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Bean_Sheet_3",
+	  "replacementSpriteNames": [
+		"beans_2"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Hands_Rebar_Explosive",
+	  "replacementSpriteNames": [
+		"rebar_explosive_0"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Hands_Rebar_Explosive_Primed",
+	  "replacementSpriteNames": [
+		"rebar_explosive_1"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Foodbar_Strip_0",
+	  "replacementSpriteNames": [
+		"food_bar_red_0"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Foodbar_Strip_1",
+	  "replacementSpriteNames": [
+		"food_bar_red_1"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"milk_carton_FG3",
+	  "replacementSpriteNames": [
+		"milk_2"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"milk_carton_FG2",
+	  "replacementSpriteNames": [
+		"milk_1"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"milk_carton_FG1",
+	  "replacementSpriteNames": [
+		"milk_0"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"milk_carton_BG2",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"milk_carton_BG1",
+	  "replacementSpriteNames": [
+		"empty"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"MAT_CandyCauldron_0",
+	  "replacementSpriteNames": [
+		"cauldron_0"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"MAT_CandyCauldron_1",
+	  "replacementSpriteNames": [
+		"cauldron_1"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"MAT_CandyCauldron_2",
+	  "replacementSpriteNames": [
+		"cauldron_2"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"MAT_CandyCauldron_3",
+	  "replacementSpriteNames": [
+		"cauldron_3"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_hands_bandage",
+	  "replacementSpriteNames": [
+		"medkit"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Trinket_PhotoOfHome_HandItem",
+	  "replacementSpriteNames": [
+		"Trinket_PhotoOfHome_HandItem"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Trinket_EmployeeID_HandItem",
+	  "replacementSpriteNames": [
+		"Trinket_EmployeeID_HandItem"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"FlaregunAmoSpin_2",
+	  "replacementSpriteNames": [
+		"FlaregunAmoSpin_2"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"EyeSpriteFrames_0",
+	  "replacementSpriteNames": [
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_0",
+		"eye_idle_1",
+		"eye_idle_2",
+		"eye_idle_1",
+		"eye_idle_3",
+		"eye_idle_3",
+		"eye_idle_3",
+		"eye_idle_3",
+		"eye_idle_4",
+		"eye_idle_4",
+		"eye_idle_4",
+		"eye_idle_4",
+		"eye_idle_4",
+		"eye_idle_4"
+	  ],
+	  "framerate": 8.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"EyeSpriteFrames_1",
+	  "replacementSpriteNames": [
+		"eye_squish_1"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"EyeSpriteFrames_2",
+	  "replacementSpriteNames": [
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_stage_2_0",
+		"eye_idle_1",
+		"eye_idle_2",
+		"eye_idle_1"
+	  ],
+	  "framerate": 8.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"EyeSpriteFrames_3",
+	  "replacementSpriteNames": [
+		"eye_squish_2"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"EyeSpriteFrames_4",
+	  "replacementSpriteNames": [
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_stage_3_0",
+		"eye_idle_2",
+		"eye_idle_2"
+	  ],
+	  "framerate": 8.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"EyeSpriteFrames_5",
+	  "replacementSpriteNames": [
+		"eye_death_0"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"EyeSpriteFrames_6",
+	  "replacementSpriteNames": [
+		"eye_death_1"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Flaregun_idle_cocked",
+	  "replacementSpriteNames": [
+		"flaregun_red_4"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Flaregun_idle_uncocked",
+	  "replacementSpriteNames": [
+		"flaregun_red_3"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Flaregun_Cocked",
+	  "replacementSpriteNames": [
+		"flaregun_red_1"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Flaregun_uncocked",
+	  "replacementSpriteNames": [
+		"flaregun_red_0"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Flaregun_recoil",
+	  "replacementSpriteNames": [
+		"flaregun_red_2"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Hands_Piton",
+	  "replacementSpriteNames": [
+		"Item_Hands_Piton"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Hands_Piton_Enthusiast",
+	  "replacementSpriteNames": [
+		"Item_Hands_Piton_Enthusiast"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Hands_Piton_Holiday",
+	  "replacementSpriteNames": [
+		"Item_Hands_Piton_Holiday"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Hands_Rebar",
+	  "replacementSpriteNames": [
+		"Item_Hands_Rebar"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Hands_Rebar_Primed",
+	  "replacementSpriteNames": [
+		"Item_Hands_Rebar_Primed"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Hands_RebarRope",
+	  "replacementSpriteNames": [
+		"Item_Hands_RebarRope"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Hands_RebarRope_Primed",
+	  "replacementSpriteNames": [
+		"Item_Hands_RebarRope_Primed"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Hands_Pipewrench_Orange",
+	  "replacementSpriteNames": [
+		"wrench"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": "",
+	  "offset": {"x":0.075,"y":0.2},
+	  "scale":1.2
+	},
+	{
+	  "spriteName":"Item_Hands_EntityScanner2_0",
+	  "replacementSpriteNames": [
+		"scanner_0"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": "",
+	  "offset": {"x":0.18,"y":0.1}
+	},
+	{
+	  "spriteName":"Item_Hands_EntityScanner2_1",
+	  "replacementSpriteNames": [
+		"scanner_1"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": "",
+	  "offset":{"x":0.17,"y":0.035}
+	},
+	{
+	  "spriteName":"Item_Hands_EntityScanner2_2",
+	  "replacementSpriteNames": [
+		"scanner_2"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": "",
+	  "offset":{"x":0.13,"y":0.035}
+	},
+	{
+	  "spriteName":"Item_Hands_EntityScanner2_3",
+	  "replacementSpriteNames": [
+		"scanner_5"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": "",
+	  "offset": {"x":0.18,"y":0.1}
+	},
+	{
+	  "spriteName":"Item_Hands_EntityScanner2_4",
+	  "replacementSpriteNames": [
+		"scanner_4"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": "",
+	  "offset":{"x":0.13,"y":0.035}
+	},
+	{
+	  "spriteName":"Item_Hands_EntityScanner2_5",
+	  "replacementSpriteNames": [
+		"scanner_3"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": "",
+	  "offset":{"x":0.13,"y":0.035}
+	},
+	{
+	  "spriteName":"Watch_0",
+	  "replacementSpriteNames": [
+		"Watch_0"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": "",
+	  "offset":{"x":0.02,"y":0.01}
+	},
+	{
+	  "spriteName":"Item_Hands_Rubble_Brick",
+	  "replacementSpriteNames": [
+		"guillotine"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": "",
+	  "scale":1.2,
+	  "offset":{
+		"x":-0.055,
+		"y":0.42
+	  }
+	},
+	{
+	  "spriteName":"glizzy_00",
+	  "replacementSpriteNames": [
+		"glizzy_00",
+		"glizzy_01",
+		"glizzy_02",
+		"glizzy_03",
+		"glizzy_04",
+		"glizzy_05",
+		"glizzy_06",
+		"glizzy_07",
+		"glizzy_08",
+		"glizzy_09",
+		"glizzy_10",
+		"glizzy_11",
+		"glizzy_12",
+		"glizzy_13",
+		"glizzy_14",
+		"glizzy_15",
+		"glizzy_16",
+		"glizzy_17",
+		"glizzy_18",
+		"glizzy_19",
+		"glizzy_20",
+		"glizzy_21",
+		"glizzy_22",
+		"glizzy_23",
+		"glizzy_24",
+		"glizzy_25",
+		"glizzy_26",
+		"glizzy_27",
+		"glizzy_28",
+		"glizzy_29",
+		"glizzy_30",
+		"glizzy_31",
+		"glizzy_32",
+		"glizzy_33",
+		"glizzy_34",
+		"glizzy_35",
+		"glizzy_36",
+		"glizzy_37",
+		"glizzy_38",
+		"glizzy_39",
+		"glizzy_40",
+		"glizzy_41",
+		"glizzy_42",
+		"glizzy_43",
+		"glizzy_44",
+		"glizzy_45",
+		"glizzy_46",
+		"glizzy_47",
+		"glizzy_48",
+		"glizzy_49",
+		"glizzy_50",
+		"glizzy_51",
+		"glizzy_52",
+		"glizzy_53",
+		"glizzy_54",
+		"glizzy_55",
+		"glizzy_56",
+		"glizzy_57",
+		"glizzy_58",
+		"glizzy_59"
+	  ],
+	  "framerate": 24.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"yap_01",
+	  "replacementSpriteNames": [
+		"yap_01",
+		"yap_02",
+		"yap_03",
+		"yap_04",
+		"yap_05",
+		"yap_06",
+		"yap_07",
+		"yap_08",
+		"yap_09",
+		"yap_10",
+		"yap_11",
+		"yap_12",
+		"yap_13",
+		"yap_14",
+		"yap_15",
+		"yap_16"
+	  ],
+	  "framerate": 12.0,
+	  "materialBase": ""
+	},
+	{
+	  "spriteName":"Item_Hands_Rebar_Candycane_0",
+	  "replacementSpriteNames": [
+		"Item_Hands_Rebar_Candycane_0"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": "",
+	  "offset":{
+		"x":-0.1,
+		"y":0.2
+	  }
+	},
+	{
+	  "spriteName":"Item_Hands_Rebar_Candycane_1",
+	  "replacementSpriteNames": [
+		"Item_Hands_Rebar_Candycane_1"
+	  ],
+	  "framerate": 1.0,
+	  "materialBase": "",
+	  "offset":{
+		"x":-0.25,
+		"y":-0.75
+	  }
+	}
+	],
+	"emotes": [
+		{
+			"id": "glizzy",
+			"name": "Glizzy",
+			"spriteName": "glizzy_00",
+			"position": {
+				"x": 0.0,
+				"y": 0.3,
+				"z": 0.0
+			},
+			"sound": ""
+		},
+		{
+			"id": "fu",
+			"name": "Fuck you",
+			"spriteName": "fu",
+			"position": {
+				"x": 0.0,
+				"y": 0.3,
+				"z": 0.0
+			},
+			"sound": ""
+		},
+		{
+			"id": "lu",
+			"name": "Heart",
+			"spriteName": "heart",
+			"position": {
+				"x": 0.27,
+				"y": 0.3,
+				"z": 0.0
+			},
+			"sound": ""
+		},
+		{
+			"id": "point",
+			"name": "Point",
+			"spriteName": "point",
+			"position": {
+				"x": 0.0,
+				"y": 0.2,
+				"z": 0.0
+			},
+			"sound": ""
+		},
+		{
+			"id": "thumbsup",
+			"name": "Thumbs Up",
+			"spriteName": "thumbsup",
+			"position": {
+				"x": 0.0,
+				"y": 0.2,
+				"z": 0.0
+			},
+			"sound": ""
+		},
+		{
+			"id": "thumbsdown",
+			"name": "Thumbs Down",
+			"spriteName": "thumbsdown",
+			"position": {
+				"x": 0.0,
+				"y": 0.2,
+				"z": 0.0
+			},
+			"sound": ""
+		},
+		{
+			"id": "yapping",
+			"name": "Yapping",
+			"spriteName": "yap_01",
+			"position": {
+				"x": 0.0,
+				"y": 0.2,
+				"z": 0.0
+			},
+			"sound": ""
+		}
+	],
+	"globalMaterialBase": "Item_Hand_Cosmetic_Basic",
+	"forceGlobalMaterialOntoHands": false,
+	"useCustomStaminaColor": false,
+	"customStaminaColor": {"r": 0.8,"g": 0.2,"b": 0.0,"a": 0.6},
+	"interactSwaps": [
+		{
+		"spriteName": "interact-hand-grabbed",
+		"replacementSpriteName": "interact-hand-grabbed",
+		"replacementSprite": {
+			"instanceID": 2
+		}
+		},
+		{
+		"spriteName": "interact-hand-item",
+		"replacementSpriteName": "interact-hand-item"
+		},
+		{
+		"spriteName": "interact-hand-open",
+		"replacementSpriteName": "interact-hand-open",
+		"replacementSprite": {
+			"instanceID": 0
+		}
+		},
+		{
+		"spriteName": "interact-hand-point",
+		"replacementSpriteName": "interact-hand-point",
+		"replacementSprite": {
+			"instanceID": 0
+		}
+		},
+		{
+		"spriteName": "hand-sheet_11",
+		"replacementSpriteName": "interact-hand-item",
+		"replacementSprite": {
+			"instanceID": 0
+		}
+		}
+	]
 }
