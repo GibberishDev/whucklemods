@@ -1902,7 +1902,10 @@
         "x":-0.25,
         "y":-0.75
       }
-    }
+    },
+
+	{"spriteName":"Item_Hands_CandycaneRope_0","offset":{"x":-0.1,"y":0.2},"replacementSpriteNames": ["Item_Hands_Rebar_Candycane_Rope_0"]},
+	{"spriteName":"Item_Hands_CandycaneRope_1","offset":{"x":-0.25,"y":-0.75},"replacementSpriteNames": ["Item_Hands_Rebar_Candycane_Rope_1"]}
   ],
   "globalMaterialBase": "Item_Hand_Cosmetic_Basic",
   "forceGlobalMaterialOntoHands": false,

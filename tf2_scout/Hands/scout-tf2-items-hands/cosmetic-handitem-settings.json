@@ -164,6 +164,9 @@
 	{"spriteName":"Item_Hands_Rebar_Candycane_0","offset":{"x":-0.1,"y":0.2},"replacementSpriteNames": ["Item_Hands_Rebar_Candycane_0"]},
 	{"spriteName":"Item_Hands_Rebar_Candycane_1","offset":{"x":-0.25,"y":-0.75},"replacementSpriteNames": ["Item_Hands_Rebar_Candycane_1"]},
 
+	{"spriteName":"Item_Hands_CandycaneRope_0","offset":{"x":-0.1,"y":0.2},"replacementSpriteNames": ["Item_Hands_Rebar_Candycane_Rope_0"]},
+	{"spriteName":"Item_Hands_CandycaneRope_1","offset":{"x":-0.25,"y":-0.75},"replacementSpriteNames": ["Item_Hands_Rebar_Candycane_Rope_1"]},
+
 	{"spriteName":"Item_Foodbar_Strip_0","replacementSpriteNames": ["food_bar_red_0"]},
 	{"spriteName":"Item_Foodbar_Strip_1","replacementSpriteNames": ["food_bar_red_1"]},
 
