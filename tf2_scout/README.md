@@ -58,39 +58,33 @@ To install manually:
 > [!IMPORTANT]
 > Vanilla cosmetic system for voices doesnt support custom sounds outside very limited range of player sounds.
 
-# ToDo
-<p align='center'>24 / 29 [████████████████████████▓▓▓▒▒] 82% Done</p>
+# Retextures
 
-| <center>Done?</center> | <center>White Knuckle Item</center> | <center>Retexture</center> |
-| --- | --- | --- |
-| ✓ | Slub | Tiny pyro (team colored)|
-| ✓ | Injector | Bonk™ styled injector (team colored)|
-| ✓ | Beans | Bonk™ and Crit-a-Cola cans (team colored)|
-| ✓ | Explosive rebar | soldiers rocket|
-| ✓ | Foodbar | Dalokohs bar (team colored)|
-| ✓ | Milk | Mad milk|
-| ✓ | Flares | Pyro's flaregun ammo (team colored)|
-| ✓ | Bandage | Small medkit|
-| ✓ | Candy cauldron | Large medkit (halloween)|
-| ✓ | Photo trinket | Miss Pauling photo|
-| ✓ | Employee Id trinket | Black Mesa Anomalous Materials researcher badge (Gordon lost it 5 weeks before the cascade)|
-| ✓ | Piton | MannCo crate key |
-| ✓ | Piton (Piton Enthusiast) | Heart shaped MannCo crate key |
-| ✓ | Piton (XMas) | MannCo "Nice Winter" crate key  |
-| ✓ | Blinkeye | Monoculus|
-| ✓ | Flaregun | Flaregun (stolen from pyro I guess) (team colored)|
-| ✓ | Rebar | Hunstman arrow|
-| ✓ | Rope Rebar | Hunstman arrow with rope coil|
-| ✓ | Festive Rebar | Scout TF2 candy cane |
-| ✓ | Festive Rope Rebar | Scout TF2 candy cane with rope coil |
-| ✘ | Cocoa | Demo's botl|
-| ✓ | Pipewrench (parasite) | Engie wrench|
-| ✓ | Timepiece artifact | Deadringer|
-| ✘ | Remote artifact | Destruction pda|
-| ✘ | Astro glove artifact | Hot hand|
-| ? | Floppy disks | TF2 recolors and TF2 logo|
-| ✓ | Brick | Flying Guillotine (I think brick is the only item using *2D4 sprite)|
-| ✓ | Scanner | Wrangler with rescue ranger screen|
-| ? | Translocator artifact | Tiny~~desk™~~ engineer teleporter|
+| <center>White Knuckle Item</center> | <center>Retexture</center> |
+| --- | --- |
+| Slub | Tiny pyro (team colored)|
+| Injector | Bonk™ styled injector (team colored)|
+| Beans | Bonk™ and Crit-a-Cola cans (team colored)|
+| Explosive rebar | soldiers rocket|
+| Foodbar | Dalokohs bar (team colored)|
+| Milk | Mad milk|
+| Flares | Pyro's flaregun ammo (team colored)|
+| Bandage | Small medkit|
+| Candy cauldron | Large medkit (halloween)|
+| Photo trinket | Miss Pauling photo|
+| Employee Id trinket | Black Mesa Anomalous Materials researcher badge (Gordon lost it 5 weeks before the cascade)|
+| Piton | MannCo crate key |
+| Piton (Piton Enthusiast) | Heart shaped MannCo crate key |
+| Piton (XMas) | MannCo "Nice Winter" crate key  |
+| Blinkeye | Monoculus|
+| Flaregun | Flaregun (stolen from pyro I guess) (team colored)|
+| Rebar | Hunstman arrow|
+| Rope Rebar | Hunstman arrow with rope coil|
+| Festive Rebar | Scout TF2 candy cane |
+| Festive Rope Rebar | Scout TF2 candy cane with rope coil |
+| Pipewrench (parasite) | Engie wrench|
+| Timepiece artifact | Deadringer|
+| Brick | Flying Guillotine (I think brick is the only item using *2D4 sprite)|
+| Scanner | Wrangler with rescue ranger screen|
 
 
