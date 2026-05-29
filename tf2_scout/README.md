@@ -13,14 +13,16 @@
 
 | | Pack | type | Game Version | Mods | Notes |
 | --- | --- | --- | --- | --- | --- |
-| <img src='./Hands/scout-tf2-hands/Sprites/HND_B1A1.png'> | <p align='left'>Scout TF2</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | Standard pack with just hand retextures |
-| <img src='./Hands/scout-tf2-blu-hands/Sprites/HND_B1A1.png'> | <p align='left'>Scout TF2 BLU</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | Version of Standard pack with BLU styles hand wraps |
-| <img src='./Hands/scout-tf2-red-hands/Sprites/HND_B1A1.png'> | <p align='left'>Scout TF2 RED</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | Version of Standard pack with RED styles hand wraps |
-| <img src='./git-previews/items.png'> | <p align='left'>Scout TF2 (Item retextures)</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | Standard pack with additional items that can be held retextured |
-| <img src='./git-previews/items-blu.png'> | <p align='left'>Scout TF2 RED (Item retextures)</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | BLU team pack with additional items that can be held retextured|
-| <img src='./git-previews/items-red.png'> | <p align='left'>Scout TF2 RED (Item retextures)</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>X<br>No</p> | RED team pack with additional items that can be held retextured |
+| <img src='./Hands/scout-tf2-hands/Sprites/HND_B1A1.png'> | <p align='left'>Scout TF2</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>~<br>Optional</p> | Standard pack with just hand retextures |
+| <img src='./Hands/scout-tf2-blu-hands/Sprites/HND_B1A1.png'> | <p align='left'>Scout TF2 BLU</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>~<br>Optional</p> | Version of Standard pack with BLU styles hand wraps |
+| <img src='./Hands/scout-tf2-red-hands/Sprites/HND_B1A1.png'> | <p align='left'>Scout TF2 RED</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>~<br>Optional</p> | Version of Standard pack with RED styles hand wraps |
+| <img src='./git-previews/items.png'> | <p align='left'>Scout TF2 (Item retextures)</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>~<br>Optional</p> | Standard pack with additional items that can be held retextured |
+| <img src='./git-previews/items-blu.png'> | <p align='left'>Scout TF2 RED (Item retextures)</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>~<br>Optional</p> | BLU team pack with additional items that can be held retextured|
+| <img src='./git-previews/items-red.png'> | <p align='left'>Scout TF2 RED (Item retextures)</p> | <p align='center'>Hands</p> | 0.55+ | <p align='center'>~<br>Optional</p> | RED team pack with additional items that can be held retextured |
 |  | <p align='left'>Scout TF2</p> | <p align='center'>Voice</p> | 0.55+ | <p align='center'>~<br>Optional</p> | Scout voice replacements for most actions. Jumps do __not__ include occasional voicelines (Hes obnoxious enough)<br>Additional features that require mods:<ul>Sentry audio replacement so it sounds like TF2 lvl2</ul><ul>Hammer denizen hit sounds that sound like stock bat</ul><ul>Hammer creature kill sounds with occasional scout gloating _bonk!_ |
 |  | <p align='left'>Scout TF2 (Loud jumps)</p> | <p align='center'>Voice</p> | 0.55+ | <p align='center'>~<br>Optional</p> | Scout voice replacements for most actions. Jumps include occasional voicelines (Hes not obnoxious enough)<br>Additional features that require mods:<ul>Sentry audio replacement so it sounds like TF2 lvl2</ul><ul>Hammer denizen hit sounds that sound like stock bat</ul><ul>Hammer creature kill sounds with occasional scout gloating _bonk!_ |
+|  | <p align='left'>Scout TF2 (item support) </p> | <p align='center'>Voice</p> | 0.55+ | <p align='center'>~<br>Optional</p> | Scout voice replacements for most actions. Jumps do __not__ include occasional voicelines (Hes obnoxious enough)<br>Additional features that require mods:<ul>Sentry audio replacement so it sounds like TF2 lvl2</ul><ul>Hammer denizen hit sounds that sound like stock bat</ul><ul>Hammer creature kill sounds with occasional scout gloating _bonk!_ Also includes some of the item sounds changed.|
+|  | <p align='left'>Scout TF2 (Loud jumps) (item support) </p> | <p align='center'>Voice</p> | 0.55+ | <p align='center'>~<br>Optional</p> | Scout voice replacements for most actions. Jumps include occasional voicelines (Hes not obnoxious enough)<br>Additional features that require mods:<ul>Sentry audio replacement so it sounds like TF2 lvl2</ul><ul>Hammer denizen hit sounds that sound like stock bat</ul><ul>Hammer creature kill sounds with occasional scout gloating _bonk!_ Also includes some of the item sounds changed.|
 
 # Showcase
 <img width='49%' src='./git-previews/regular.jpg'></img>
@@ -28,11 +30,6 @@
 <img width='49%' src='./git-previews/redvsblu.jpg'></img>
 <img width='49%' src='./git-previews/pyrogrub.jpg'></img>
 # Installation
-
-> [!WARNING]
-> As of writing Resourceful Hands mod is still in development and some required features are missing.
-> In addition vanilla cosmetic system is limiting and doesnt support everything these packs have to offer.
-> There _is_ a way to install everything RIGHT NOW but it requires a lot of jank and will not be supported in future. wait for Resourceful Hands mod update or use limited capabilities of vanilla version
 
 ## Modded
 Search Scout TF2 in Thunderstore/R2Modman mod browser and install.<br><br>
@@ -43,8 +40,6 @@ Launch the game once to generate all the BepInEx folders
 Put RH into `BepInEx/plugins` folder.
 3. __Scout TF2__
 Put contents of zip into `BepInEx/plugins` folder.
-> [!IMPORTANT]
-> Current version of RH doesnt support loading voice cosmetics. this is a confirmed bug and will be fixed soon.
 
 If everything done correctly when in-game you will see several packs inside cosmetics menu
 
