@@ -1,0 +1,30 @@
+{
+    "id": "gibb-charged",
+    "cosmeticName": "Charged",
+    "author": "GibbDev",
+    "description": "<color=#dfbe66><b>I smell the ozone already…",
+    "credits": "",
+    "unlock": "",
+    "allowedSpecialtyPoses": [
+        "sprint",
+        "crouch"
+    ],
+    "swapSprites": [
+    ],
+    "globalMaterialBase": "Item_Hand_Material_StaminaCreep",
+    "forceGlobalMaterialOntoHands": true,
+    "useCustomStaminaColor": true,
+    "customStaminaColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "useCustomStaminaIconColor": true,
+    "customStaminaIconColor": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    }
+}
