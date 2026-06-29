@@ -12,7 +12,7 @@
     "swapSprites": [
     ],
     "globalMaterialBase": "Item_Hand_Material_StaminaCreep",
-    "forceGlobalMaterialOntoHands": true,
+    "forceGlobalMaterialOntoHands": false,
     "useCustomStaminaColor": true,
     "customStaminaColor": {
         "r": 1.0,
